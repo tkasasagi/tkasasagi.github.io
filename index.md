@@ -1,6 +1,8 @@
 ## Welcome to tkasasagi Pages
 
-I want to create my page.
+I want to create my page.Currently your site has no set title, so we’re falling back to the name of the repo. To change this, I’m going to add the line “title: Welcome to the Octocat’s homepage!” to this file. Feel free to do the same, except for your own username.
+
+Under this title, you can add a message about the purpose of the page and describe what you want people to do while they’re here. I’m going set mine to “Feel free to bookmark this to keep an eye on my project updates”
 
 ### Markdown
 
