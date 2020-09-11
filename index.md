@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![tkasasagi.github.io/https---imgix-proxy.n8s.jp-DSXMZO6343248004092020000001-2.jpg](src)
+[Link](url) and ![image](tkasasagi.github.io/https---imgix-proxy.n8s.jp-DSXMZO6343248004092020000001-2.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
