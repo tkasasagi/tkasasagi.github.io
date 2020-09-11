@@ -1,8 +1,6 @@
-## Welcome to tkasasagi Pages
+## Welcome to tkasasagi's homepage
 
-I want to create my page.Currently your site has no set title, so we’re falling back to the name of the repo. To change this, I’m going to add the line “title: Welcome to the Octocat’s homepage!” to this file. Feel free to do the same, except for your own username.
-
-Under this title, you can add a message about the purpose of the page and describe what you want people to do while they’re here. I’m going set mine to “Feel free to bookmark this to keep an eye on my project updates”
+Hi! My name is Tarin Clanuwat. I am originally from Thailand, but now living and working in Japan. I got my PhD from Waseda University, Graduate School of Arts Letters and Science. I specialized in the Tale of Genji's commentary books from Kamakura and Nambokucho period.
 
 ### My Research
 
