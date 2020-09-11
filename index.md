@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![image](tkasasagi.github.io/https---imgix-proxy.n8s.jp-DSXMZO6343248004092020000001-2.jpg)
+[Link](url) and 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -30,6 +30,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ```markdown
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tkasasagi/tkasasagi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+![image](tkasasagi.github.io/https---imgix-proxy.n8s.jp-DSXMZO6343248004092020000001-2.jpg)
 ```
 ### Support or Contact
 
