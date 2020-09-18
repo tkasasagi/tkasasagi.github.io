@@ -1,4 +1,4 @@
-# Welcome to tkasasagi's homepage
+# Welcome to tkasasagi's website
 
 My name is Tarin Clanuwat. I am originally from Thailand, but now living and working in Japan. I got my PhD in Classical Japanese Literature (文学) from Waseda University, Graduate School of Arts Letters and Science. I specialized in the Tale of Genji's commentary books from Kamakura and Nambokucho period. You can reach me at tkasasagi at gmail.
 
