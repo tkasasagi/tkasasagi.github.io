@@ -6,7 +6,7 @@ My name is Tarin Clanuwat. I am originally from Thailand, but now living and wor
 
 My current research interest is mainly on Kuzushiji or pre-modern Japanese character recognition with deep learning. I also worked on datasets for machine learning such as KMNIST dataset and KaoKore dataset. I am interested in encouraging humanities researchers to use machine learning and data science in their research because the research in classical literature or history deals with a lot of data all the time.
 
-### Awards
+## Awards
 1. Japanese Government Scholarship (MEXT) Embassy Recommendation (2008 - 2015).
 2. TC11 (Reading Systems) and TC10 (Graphics Recognition) Summer School on Document Analysis and Recognition Excellent Award (2018).
 3. Information Processing Society of Japan (IPJS) SIG Computers and Humanities Symposium Best Paper Award (2019).
@@ -15,12 +15,12 @@ My current research interest is mainly on Kuzushiji or pre-modern Japanese chara
 6. Digital Archive Promotion Consortium Technical Award for Kuzushiji dataset research and KuroNet service (2020).
 
 
-### Machine Learning Papers
+## Digital Humanities and Machine Learning Papers
 
-- Yingtao Tian, Chikahiko Suzuki, Tarin Clanuwat, Mikel Bober-Irizar, Alex Lamb, Asanobu Kitamoto "KaoKore: A Pre-modern Japanese Art Facial Expression Dataset", Proceedings of the 11th International Conference on Computational Creativity (ICCC'20) 415 - 422 (September 2020)(Peer-Reviewed)
+- Yingtao Tian, Chikahiko Suzuki, ***Tarin Clanuwat***, Mikel Bober-Irizar, Alex Lamb, Asanobu Kitamoto "KaoKore: A Pre-modern Japanese Art Facial Expression Dataset", Proceedings of the 11th International Conference on Computational Creativity (ICCC'20) 415 - 422 (September 2020)(Peer-Reviewed)
 - Alex Lamb, Tarin Clanuwat, Asanobu Kitamoto "KuroNet: Regularized Residual U-Nets for End-to-End Kuzushiji Character Recognition" SN Computer Science (May 2020)(Peer-reviewed) 
-- Asanobu KITAMOTO, Tarin CLANUWAT, Mikel BOBER-IRIZAR "Kaggle Kuzushiji Recognition Competition ─ Challenges of Hosting a World-Wide Competition in the Digital Humanities" Journal of Japanese Society for Artificial Intelligence 35(3) Page 366 - 376 (May 2020)(Invited Paper)
-- Asanobu KITAMOTO, Tarin CLANUWAT , Alex LAMB , Mikel BOBER-IRIZAR "Progress and Results of Kaggle Machine Learning Competition for Kuzushiji Recognition"  The Information Processing Society of Japan, SIG Computers and the Humanities (December 2019)(Peer-reviewed)
+- Asanobu Kitamoto, Tarin Clanuwat, Mikel Bober-Irizar "Kaggle Kuzushiji Recognition Competition ─ Challenges of Hosting a World-Wide Competition in the Digital Humanities" Journal of Japanese Society for Artificial Intelligence 35(3) Page 366 - 376 (May 2020)(Invited Paper)
+- Asanobu Kitamoto, Tarin Clanuwat , Alex Lamb , Mikel Bober-Irizar "Progress and Results of Kaggle Machine Learning Competition for Kuzushiji Recognition"  The Information Processing Society of Japan, SIG Computers and the Humanities (December 2019)(Peer-reviewed)
 - Tarin Clanuwat, Alex Lamb, Asanobu Kitamoto "KuroNet: Pre-Modern Japanese Kuzushiji Character Recognition with Deep Learning" The International Conference on Document Analysis and Recognition (ICDAR) (September 2019)(Peer-reviewed)
 - Asanobu Kitamoto, Tarin Clanuwat, Tomo Miyazaki, Kazuaki Yamamoto "Analysis of Character Data: Potential and Impact of Kuzushiji Recognition by Machine Learning" Journal of IEICE (Institute of Electronics, Information, and Communication Engineers) 102(6) 563 - 568 (June 2019)(Peer-reviewed)(Invited)
 - Tarin Clanuwat "Kuzushiji Character Recognition with AI" Heianchō Bungaku Kenkyū [Research into Heian-period Literature] 27 (March 2019)(Peer-reviewed)(Invited)
@@ -30,7 +30,7 @@ My current research interest is mainly on Kuzushiji or pre-modern Japanese chara
 - Asanobu Kitamoto, Mika Ichino, Chikahiko Suzuki, Tarin Clanuwat "Historical Big Data: Reconstructing the Past Through the Integrated Analysis of Historical Data" Japanese Association for Digital Humanities (September 2018)(Peer-reviewed)
 
 
-### Classical Japanese Literature Papers
+## Classical Japanese Literature Papers
 ```markdown
 genji
 
