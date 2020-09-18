@@ -46,12 +46,16 @@ My current research interest is mainly on Kuzushiji or pre-modern Japanese chara
 1. <ins>Tarin Clanuwat</ins> ***Research on Kuyobunko "Genjimonogatarisho" Commentary Book*** (『源氏物語』古注釈の研究―九曜文庫本『源氏物語抄』を中心に―) Waseda University Master Thesis, (March 2012)(Peer-reviewed)
 
 ## Conference Presentations
--
--
--
--
--
--
+1. KaoKore: A Pre-modern Japanese Art Facial Expression Dataset, the 11th International Conference on Computational Creativity (ICCC'20) (September 2020)
+1. KuroNet: Pre-Modern Japanese Kuzushiji Character Recognition with Deep Learning, The International Conference on Document Analysis and Recognition (ICDAR) (September 2019)
+1. Deep Learning for Classical Japanese Literature, Neural Information Processing Systems (NeurIPS), Machine Learning for Creativity and Design Workshop (December 2018) 
+1. End-to-End Pre-Modern Japanese Character (Kuzushiji) Spotting with Deep Learning, Neural Information Processing Systems (NeurIPS), Women in Machine Learning Workshop (WiML) (December 2018)
+1. End-to-End Pre-Modern Japanese Character (Kuzushiji) Spotting with Deep Learning、情報処理学会人文科学とコンピュータシンポジウム (December 2018)
+1. More than just a Love Story: Medieval Genji as Gate to Knowledge、Asian Studies Conference Japan (ASCJ) (June 2015)
+1. 内閣文庫蔵三冊本『紫明抄』の位置、中古文学会平成26年度秋季大会 (October 2014)
+1. 内閣文庫蔵三冊本『紫明抄』の注釈内容、全国大学国語国文学会第108回大会 (December 2013)
+1. 九曜文庫本『源氏物語抄』と『水原抄』『珊瑚秘抄』『千鳥抄』第36回国際日本文学研究集会 (October 2012)
+1. 『葵巻古注』と『光源氏物語抄』平安朝文学研究会 (September 2012)
 
 
 ## Articles
@@ -83,7 +87,7 @@ My current research interest is mainly on Kuzushiji or pre-modern Japanese chara
 
 ### Featured
 
-Google [How TensorFlow AI is helping preserve Japanese culture](https://about.google/stories/tensorflow-ai-japanese-culture/) [Twitter](https://twitter.com/Google/status/1230945330155401218?s=20)
+Google [How TensorFlow AI is helping preserve Japanese culture](https://about.google/stories/tensorflow-ai-japanese-culture/) 
 
 ### TV
 
