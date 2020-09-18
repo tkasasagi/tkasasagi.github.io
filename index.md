@@ -4,7 +4,16 @@ Hi! My name is Tarin Clanuwat. I am originally from Thailand, but now living and
 
 ### My Research
 
-Right now my research is mainly on Kuzushiji or pre-modern Japanese character recognition with deep learning. I also worked on datasets for machine learning such as KMNIST dataset and KaoKore dataset. I am interested in encouraging humanities researchers to use machine learning and data science in their research because the research in classical literature or history deals with a lot of data all the time.
+My current research interest is mainly on Kuzushiji or pre-modern Japanese character recognition with deep learning. I also worked on datasets for machine learning such as KMNIST dataset and KaoKore dataset. I am interested in encouraging humanities researchers to use machine learning and data science in their research because the research in classical literature or history deals with a lot of data all the time.
+
+### Awards
+1. Japanese Government Scholarship (MEXT) Embassy Recommendation (2008 - 2015).
+2. TC11 (Reading Systems) and TC10 (Graphics Recognition) Summer School on Document Analysis and Recognition Excellent Award (2018).
+3. Information Processing Society of Japan (IPJS) Computer and Humanities Symposium Best Paper Award (2019).
+4. Information Processing Society of Japan (IPSJ) Yamashita Memorial Reseach Award (2019).
+5. Japan Society for Digital Archive Academic Award (Research Paper) Progress and Results of Kaggle Machine Learning Competition for Kuzushiji Recognition  (2020).
+6. Digital Archive Promotion Consortium Technical Award for Kuzushiji dataset research and KuroNet service.
+
 
 ### Machine Learning Papers
 
