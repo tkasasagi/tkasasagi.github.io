@@ -91,7 +91,7 @@ Google [How TensorFlow AI is helping preserve Japanese culture](https://about.go
 
 ### TV
 
-1. NHK BS1 [Cool Japan "Character](https://www.nhk.jp/p/cooljapan/ts/P2RMMPW5JM/list/) (2020)
+1. NHK BS1 [Cool Japan "Character"](https://www.nhk.jp/p/cooljapan/ts/P2RMMPW5JM/list/) (2020)
 1. CCTV [天下财经:秒读古籍 日本AI快速辨识手写体文献](http://tv.cctv.com/2019/12/15/VIDEp0qvkFY2XEI3Dsbb0Qql191215.shtml?spm=C22284.POVEGXmS0v8f.EwwKHMQHBx88.1) (2019)
 1. CNBC TV-18 [Young Turks: Here's an accessibility app designed for the deaf or hard of hearing](https://www.cnbctv18.com/videos/young-turks/young-turks-heres-an-accessibility-app-designed-for-the-deaf-or-hard-of-hearing-4342401.htm) (2019)
 
