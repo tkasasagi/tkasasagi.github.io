@@ -6,9 +6,7 @@ Hi! My name is Tarin Clanuwat. I am originally from Thailand, but now living and
 
 Right now my research is mainly on Kuzushiji or pre-modern Japanese character recognition with deep learning. I also worked on datasets for machine learning such as KMNIST dataset and KaoKore dataset. I am interested in encouraging humanities researchers to use machine learning and data science in their research because the research in classical literature or history deals with a lot of data all the time.
 
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Machine Learning Papers
 
 ```markdown
 Syntax highlighted code block
@@ -26,6 +24,45 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and 
+
+```
+
+
+### Classical Japanese Literature Papers
+```markdown
+genji
+
+```
+
+### Articles
+```markdown
+genji
+
+```
+
+### Conference Presentations
+```markdown
+genji
+
+```
+
+### Invited Talks @ Google
+```markdown
+genji
+
+```
+
+### Invited Talks
+```markdown
+genji
+
+
+```
+
+### Classical Japanese Literature Papers
+```markdown
+genji
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
