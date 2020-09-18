@@ -14,9 +14,7 @@ My current research interest is mainly on Kuzushiji or pre-modern Japanese chara
 - TC11 (Reading Systems) and TC10 (Graphics Recognition) Summer School on Document Analysis and Recognition ***Excellent Award*** (2018).
 - ***Japanese Government Scholarship (MEXT)*** Embassy Recommendation (2008 - 2015).
 
-
 ### Digital Humanities and Machine Learning Papers
-
 - Yingtao Tian, Chikahiko Suzuki, <ins>Tarin Clanuwat</ins>, Mikel Bober-Irizar, Alex Lamb, Asanobu Kitamoto ***KaoKore: A Pre-modern Japanese Art Facial Expression Dataset***, Proceedings of the 11th International Conference on Computational Creativity (ICCC'20) 415 - 422 (September 2020)(Peer-Reviewed)
 - Alex Lamb, <ins>Tarin Clanuwat</ins>, Asanobu Kitamoto ***KuroNet: Regularized Residual U-Nets for End-to-End Kuzushiji Character Recognition*** SN Computer Science (May 2020)(Peer-reviewed) 
 - Asanobu Kitamoto, <ins>Tarin Clanuwat</ins> ***AI Kuzushiji Recognition and a Path to Full-Text Search for Historical Documents*** Bulletin of the Japan Special Libraries Association vol 300, Page 26 - 32 (May 2020)(Invited) 
@@ -53,18 +51,18 @@ My current research interest is mainly on Kuzushiji or pre-modern Japanese chara
 - Fumi
 
 ### Invited Talks
-- July 2020 Kuzushiji and Premodern Japanese Studies: Learning Resources and Artificial Intelligence Initiatives, Centre for Japanese Research, the University of British Columbia, Canada.
-- May 2020 International Women's Day, Women Techmakers Tokyo 2020 日本文化とAI：くずし字認識の研究, ***Google Developer Group*** Tokyo.
-- May 2020 日本文化とAI：くずし字認識, the University of Electro-Communications、Tokyo.
-- December 2019 Kaggle Kuzushiji Recognition Competition​, Kaggle Days Tokyo, ***Google Japan***.
-- December 2019　ＡＩによるくずし字認識、古典文学と情報学の世界的なコラボレーション​, 総研大文化フォーラム2019, the National Institute of Japanese Literature​.
-- November 2019 Kuzushiji and AI : A Case Study of Multidisciplinary Research​, the Japan Foundation.
-- November 2019 くずし字ｘAIオンラインで世界に開く日本古典籍​ Keio University Hiyoshi Campus、Research Institute for Digital Media and Content.​
-- November 2019 Google Japan Women in Tech Celebration Tech Talk: Kuzushiji Character Recognition​, ***Google Japan***​.
-- November 2019 世界中のアイデアを集めるくずし字コンペの開催​, 日本文化とAIシンポジウム, 一橋講堂​.
-- July 2019　Making Millions of Japanese Historical Documents More Accessible with AI, Google Solve with AI, ***Google Japan​***.
-- April 2019 Pre-modern Japanese Kuzushiji Character Recognition with Deep Learning​, the Univerity of Tokyo、Institute for Physics of Intelligence​.
-- January 2019 End-to-End Pre-Modern Japanese Character (Kuzushiji) Recognition with Deep Learning, Women in Machine Learning, Machine Learning Tokyo Meetup, ***Google Japan***
+1. Kuzushiji and Premodern Japanese Studies: Learning Resources and Artificial Intelligence Initiatives, Centre for Japanese Research, the University of British Columbia, Canada (July 2020) 
+1. International Women's Day, Women Techmakers Tokyo 2020 日本文化とAI：くずし字認識の研究, ***Google Developer Group*** Tokyo (May 2020) 
+1. 日本文化とAI：くずし字認識, the University of Electro-Communications、Tokyo (May 2020) 
+1. Kaggle Kuzushiji Recognition Competition​, Kaggle Days Tokyo, ***Google Japan*** (December 2019)
+- ＡＩによるくずし字認識、古典文学と情報学の世界的なコラボレーション​, 総研大文化フォーラム2019, the National Institute of Japanese Literature​ (December 2019)
+- Kuzushiji and AI : A Case Study of Multidisciplinary Research​, the Japan Foundation (November 2019)
+- くずし字ｘAIオンラインで世界に開く日本古典籍​ Keio University Hiyoshi Campus、Research Institute for Digital Media and Content (November 2019)
+- Women in Tech Celebration, Tech Talk: Kuzushiji Character Recognition​, ***Google Japan***​ (November 2019)
+- 世界中のアイデアを集めるくずし字コンペの開催​, 日本文化とAIシンポジウム, 一橋講堂​ (November 2019)
+- Making Millions of Japanese Historical Documents More Accessible with AI, Google Solve with AI, ***Google Japan​*** (July 2019)
+- Pre-modern Japanese Kuzushiji Character Recognition with Deep Learning​, the Univerity of Tokyo、Institute for Physics of Intelligence​ (April 2019)
+- End-to-End Pre-Modern Japanese Character (Kuzushiji) Recognition with Deep Learning, Women in Machine Learning, Machine Learning Tokyo Meetup, ***Google Japan*** (January 2019)
 
 ### Education
 - September 2017 - April 2018 The University of Tokyo Graduate School of Arts and Sciences, Multidisciplinary Science General System Studies Special Research Student 
