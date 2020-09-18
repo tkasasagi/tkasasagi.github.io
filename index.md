@@ -7,18 +7,19 @@ My name is Tarin Clanuwat. I am originally from Thailand, but now living and wor
 My current research interest is mainly on Kuzushiji or pre-modern Japanese character recognition with deep learning. I also worked on datasets for machine learning such as KMNIST dataset and KaoKore dataset. I am interested in encouraging humanities researchers to use machine learning and data science in their research because the research in classical literature or history deals with a lot of data all the time.
 
 ## Awards
-1. Japanese Government Scholarship (MEXT) Embassy Recommendation (2008 - 2015).
-2. TC11 (Reading Systems) and TC10 (Graphics Recognition) Summer School on Document Analysis and Recognition Excellent Award (2018).
-3. Information Processing Society of Japan (IPJS) SIG Computers and Humanities Symposium Best Paper Award (2019).
-4. Information Processing Society of Japan (IPSJ) Yamashita Memorial Reseach Award (2019).
-5. Japan Society for Digital Archive Academic Award (Research Paper) Progress and Results of Kaggle Machine Learning Competition for Kuzushiji Recognition  (2020).
-6. Digital Archive Promotion Consortium Technical Award for Kuzushiji dataset research and KuroNet service (2020).
+1. ***Japanese Government Scholarship (MEXT)*** Embassy Recommendation (2008 - 2015).
+2. TC11 (Reading Systems) and TC10 (Graphics Recognition) Summer School on Document Analysis and Recognition ***Excellent Award*** (2018).
+3. Information Processing Society of Japan (IPJS) SIG Computers and Humanities Symposium ***Best Paper Award*** (2019).
+4. Information Processing Society of Japan (IPSJ) ***Yamashita Memorial Reseach Award*** (2019).
+5. Japan Society for Digital Archive ***Academic Award (Research Paper)*** (2020).
+6. Digital Archive Promotion Consortium ***Technical Award*** for Kuzushiji dataset research and KuroNet service (2020).
 
 
 ## Digital Humanities and Machine Learning Papers
 
 - Yingtao Tian, Chikahiko Suzuki, <ins>Tarin Clanuwat</ins>, Mikel Bober-Irizar, Alex Lamb, Asanobu Kitamoto ***KaoKore: A Pre-modern Japanese Art Facial Expression Dataset***, Proceedings of the 11th International Conference on Computational Creativity (ICCC'20) 415 - 422 (September 2020)(Peer-Reviewed)
 - Alex Lamb, <ins>Tarin Clanuwat</ins>, Asanobu Kitamoto ***KuroNet: Regularized Residual U-Nets for End-to-End Kuzushiji Character Recognition*** SN Computer Science (May 2020)(Peer-reviewed) 
+- Asanobu Kitamoto, <ins>Tarin Clanuwat</ins> ***AI Kuzushiji Recognition and a Path to Full-Text Search for Historical Documents*** Bulletin of the Japan Special Libraries Association vol 300, Page 26 - 32 (May 2020)(Invited) 
 - Asanobu Kitamoto, <ins>Tarin Clanuwat</ins>, Mikel Bober-Irizar ***Kaggle Kuzushiji Recognition Competition ─ Challenges of Hosting a World-Wide Competition in the Digital Humanities*** Journal of Japanese Society for Artificial Intelligence 35(3) Page 366 - 376 (May 2020)(Invited Paper)
 - Asanobu Kitamoto, <ins>Tarin Clanuwat</ins> , Alex Lamb , Mikel Bober-Irizar ***Progress and Results of Kaggle Machine Learning Competition for Kuzushiji Recognition***  The Information Processing Society of Japan, SIG Computers and the Humanities (December 2019)(Peer-reviewed)
 - <ins>Tarin Clanuwat</ins>, Alex Lamb, Asanobu Kitamoto ***KuroNet: Pre-Modern Japanese Kuzushiji Character Recognition with Deep Learning*** The International Conference on Document Analysis and Recognition (ICDAR) (September 2019)(Peer-reviewed)
