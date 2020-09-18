@@ -60,7 +60,7 @@ My current research interest is mainly on Kuzushiji or pre-modern Japanese chara
 
 ## Articles
 
-1. <ins>Tarin Clanuwat</ins> [Fumi Vol. 14 KuroNet: Kuzushiji Recognition with AI](https://www.nijl.ac.jp/pages/cijproject/en/newsletter_fumi_new.html)
+1. <ins>Tarin Clanuwat</ins> [Fumi Vol. 14 KuroNet: Kuzushiji Recognition with AI](https://www.nijl.ac.jp/pages/cijproject/en/newsletter_fumi_new.html) The National Institute of Japanese Literature (June 2020)
 
 ## Invited Talks
 
