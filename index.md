@@ -64,18 +64,18 @@ My current research interest is mainly on Kuzushiji or pre-modern Japanese chara
 
 ## Invited Talks
 
-1. Kuzushiji and Premodern Japanese Studies: Learning Resources and Artificial Intelligence Initiatives, Centre for Japanese Research, the University of British Columbia, Canada (July 2020) 
-1. International Women's Day, Women Techmakers Tokyo 2020 日本文化とAI：くずし字認識の研究, ***Google Developer Group*** Tokyo (May 2020) 
-1. 日本文化とAI：くずし字認識, the University of Electro-Communications、Tokyo (May 2020) 
-1. Kaggle Kuzushiji Recognition Competition​, Kaggle Days Tokyo, ***Google Japan*** (December 2019)
-1. ＡＩによるくずし字認識、古典文学と情報学の世界的なコラボレーション​, 総研大文化フォーラム2019, the National Institute of Japanese Literature​ (December 2019)
-1. Kuzushiji and AI : A Case Study of Multidisciplinary Research​, the Japan Foundation (November 2019)
-1. くずし字ｘAIオンラインで世界に開く日本古典籍​ Keio University Hiyoshi Campus、Research Institute for Digital Media and Content (November 2019)
-1. Women in Tech Celebration, Tech Talk: Kuzushiji Character Recognition​, ***Google Japan***​ (November 2019)
-1. 世界中のアイデアを集めるくずし字コンペの開催​, 日本文化とAIシンポジウム, 一橋講堂​ (November 2019)
-1. Making Millions of Japanese Historical Documents More Accessible with AI, Google Solve with AI, ***Google Japan​*** (July 2019)
-1. Pre-modern Japanese Kuzushiji Character Recognition with Deep Learning​, the Univerity of Tokyo、Institute for Physics of Intelligence​ (April 2019)
-1. End-to-End Pre-Modern Japanese Character (Kuzushiji) Recognition with Deep Learning, Women in Machine Learning, Machine Learning Tokyo Meetup, ***Google Japan*** (January 2019)
+1. ***Kuzushiji and Premodern Japanese Studies: Learning Resources and Artificial Intelligence Initiatives***, Centre for Japanese Research, the University of British Columbia, Canada (July 2020) 
+1. ***International Women's Day, Women Techmakers Tokyo 2020 日本文化とAI：くずし字認識の研究***, ***Google Developer Group*** Tokyo (May 2020) 
+1. ***日本文化とAI：くずし字認識***, the University of Electro-Communications、Tokyo (May 2020) 
+1. ***Kaggle Kuzushiji Recognition Competition​, Kaggle Days Tokyo***, ***Google Japan*** (December 2019)
+1. ***ＡＩによるくずし字認識、古典文学と情報学の世界的なコラボレーション***​, 総研大文化フォーラム2019, the National Institute of Japanese Literature​ (December 2019)
+1. ***Kuzushiji and AI : A Case Study of Multidisciplinary Research***​, the Japan Foundation (November 2019)
+1. ***くずし字ｘAIオンラインで世界に開く日本古典籍​*** , Keio University Hiyoshi Campus、Research Institute for Digital Media and Content (November 2019)
+1. ***Women in Tech Celebration, Tech Talk: Kuzushiji Character Recognition​***, ***Google Japan***​ (November 2019)
+1. ***世界中のアイデアを集めるくずし字コンペの開催***​, 日本文化とAIシンポジウム, 一橋講堂​ (November 2019)
+1. ***Making Millions of Japanese Historical Documents More Accessible with AI***, Google Solve with AI, ***Google Japan​*** (July 2019)
+1. ***Pre-modern Japanese Kuzushiji Character Recognition with Deep Learning​***, the Univerity of Tokyo、Institute for Physics of Intelligence​ (April 2019)
+1. ***End-to-End Pre-Modern Japanese Character (Kuzushiji) Recognition with Deep Learning***, Women in Machine Learning, Machine Learning Tokyo Meetup, ***Google Japan*** (January 2019)
 
 ## Education
 
