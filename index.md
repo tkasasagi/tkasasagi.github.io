@@ -14,6 +14,12 @@ OCR
 
 My current research interest is mainly on Kuzushiji or pre-modern Japanese character recognition with deep learning. I also worked on datasets for machine learning such as KMNIST dataset and KaoKore dataset. I am interested in encouraging humanities researchers to use machine learning and data science in their research because the research in classical literature or history deals with a lot of data all the time.
 
+Mobile Phone App with Flutter
+
+![image](../images/app.gif)
+
+Because I want the model available and easy to use for everyone, I am also interested in implementing Kuzushiji recognition model with a mobile phone application. I use Flutter with server API. However I want to extend my research to on-device recognition to maximize the resource and not rely on server GPU alone.
+
 ## Activities
 1. [End-to-end Pre-modern Japanese Kuzushiji Recognition with Deep Learning](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K13085/) Japan Society for the Promotion of Science, Grants-in-Aid for Scientific Research ,Grant-in-Aid for Early-Career Scientists (April 2019 - March 2022)
 1. [Kaggle Kuzushiji Recognition Competition](https://www.kaggle.com/c/kuzushiji-recognition) Host (2019)
@@ -99,13 +105,13 @@ Google [How TensorFlow AI is helping preserve Japanese culture](https://about.go
 
 ### TV
 
-![image](../images/nhk.jpg | width=600)
+![image](../images/nhk.jpg)
 1. NHK BS1 [Cool Japan "Character"](https://www.nhk.jp/p/cooljapan/ts/P2RMMPW5JM/list/) (2020)
 
-![image](../images/cctv.jpg | width=600)
+![image](../images/cctv.jpg)
 2. CCTV [天下财经:秒读古籍 日本AI快速辨识手写体文献](http://tv.cctv.com/2019/12/15/VIDEp0qvkFY2XEI3Dsbb0Qql191215.shtml?spm=C22284.POVEGXmS0v8f.EwwKHMQHBx88.1) (2019)
 
-![image](../images/cnbc.png | width=600)
+![image](../images/cnbc.png)
 3. CNBC TV-18 [Young Turks: Here's an accessibility app designed for the deaf or hard of hearing](https://www.cnbctv18.com/videos/young-turks/young-turks-heres-an-accessibility-app-designed-for-the-deaf-or-hard-of-hearing-4342401.htm) (2019)
 
 ### Interviews and News Articles
