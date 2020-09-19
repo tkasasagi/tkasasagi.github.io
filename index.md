@@ -16,7 +16,7 @@ My current research interest is mainly on Kuzushiji or pre-modern Japanese chara
 
 Mobile Phone App with Flutter
 
-![image](../images/app.gif)
+![image](../images/app.gif){:height="200px"}
 
 Because I want the model available and easy to use for everyone, I am also interested in implementing Kuzushiji recognition model with a mobile phone application. I use Flutter with server API. However I want to extend my research to on-device recognition to maximize the resource and not rely on server GPU alone.
 
