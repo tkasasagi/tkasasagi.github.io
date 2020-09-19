@@ -95,7 +95,7 @@ Google [How TensorFlow AI is helping preserve Japanese culture](https://about.go
 1. CCTV [天下财经:秒读古籍 日本AI快速辨识手写体文献](http://tv.cctv.com/2019/12/15/VIDEp0qvkFY2XEI3Dsbb0Qql191215.shtml?spm=C22284.POVEGXmS0v8f.EwwKHMQHBx88.1) (2019)
 1. CNBC TV-18 [Young Turks: Here's an accessibility app designed for the deaf or hard of hearing](https://www.cnbctv18.com/videos/young-turks/young-turks-heres-an-accessibility-app-designed-for-the-deaf-or-hard-of-hearing-4342401.htm) (2019)
 
-### Interviews and Online Articles
+### Interviews and News Articles
 
 1. ***Dataset Search：Googleによる「データセット検索」サイト：AI・機械学習のデータセット辞典***, ＠IT, 2020-07-15
 1. ***くずし字解読AI駆使*** ,読売新聞夕刊, 2020-06-06
@@ -150,20 +150,20 @@ Google [How TensorFlow AI is helping preserve Japanese culture](https://about.go
 1. ***日本文化とAIシンポジウム2019　～AIがくずし字を読む時代がやってきた～（11/11・東京）***, カレントアウェアネス, 2019-09-17
 1. ***トピック くずし字を読み解くAIを紹介***, 読売新聞, 夕刊7面, 2019-09-19
 1. ***シンポジウム「ＡＩがくずし字を読む時代がやってきた」開催へ***, 科学新聞 2面, 2019-09-19
-1. ***AIでくずし字を読む カラーヌワット・タリン***, 文藝春秋, 90-91ページ, 2019年10月号
-1. ***AIやビッグデータ、人文研究に変革　データ駆動型に***, 日本経済新聞, 2019-07-27
-1. ***AI活用した古文書解読プロジェクト「みんなで翻刻」がリニューアル***, ICT教育ニュース, 2019-07-24
-1. ***防災へ、みんなで古文書読み解く　東大地震研の史料５００点、ネットで公開　５０００人参加***, 朝日新聞, 2019-07-25
-1. ***日本古来の「くずし字」、AIでどう読み取る？　世界的なコンペティションが7月中旬から開催決定***, やじうまWatch, 2019-07-10
-1. ***くずし字認識に関する全世界的なコンペティションが機械学習コンペプラットフォームKaggleで開催***, カレントアウェアネス, 2019-07-12
-1. ***くずし字認識のKaggleコンペ開催：人文系データ対象は今回が初***, Marvin（マーヴィン）人工知能・AIと機械学習の事例メディア, 2019-07-18
+1. [AIでくずし字を読む カラーヌワット・タリン](https://bungeishunju.com/n/ne725a2ee45ac), 文藝春秋, 90-91ページ, 2019年10月号
+1. [AIやビッグデータ、人文研究に変革　データ駆動型に](https://www.nikkei.com/article/DGXMZO47825070W9A720C1MY1000/), 日本経済新聞, 2019-07-27
+1. [AI活用した古文書解読プロジェクト「みんなで翻刻」がリニューアル](https://ict-enews.net/2019/07/24honkoku/), ICT教育ニュース, 2019-07-24
+1. [防災へ、みんなで古文書読み解く　東大地震研の史料５００点、ネットで公開　５０００人参加](https://www.asahi.com/articles/DA3S14112066.html), 朝日新聞, 2019-07-25
+1. [日本古来の「くずし字」、AIでどう読み取る？　世界的なコンペティションが7月中旬から開催決定](https://internet.watch.impress.co.jp/docs/yajiuma/1195186.html), やじうまWatch, 2019-07-10
+1. [くずし字認識に関する全世界的なコンペティションが機械学習コンペプラットフォームKaggleで開催](https://current.ndl.go.jp/node/38580), カレントアウェアネス, 2019-07-12
+1. [くずし字認識のKaggleコンペ開催：人文系データ対象は今回が初](https://marvin.news/6836), Marvin（マーヴィン）人工知能・AIと機械学習の事例メディア, 2019-07-18
 1. ***『くずし字』の認識にＡＩ活用へ世界規模コンペ***, 科学新聞, 2面, 2019-07-19
-1. ***医療に災害対策、古文書の読み取りまで――AIによる社会課題の解決を目指すGoogle***, ケータイ Watch, 2019-07-10
-1. ***Googleが日本でAI人材支援、6人の研究者に500万円補助 1000年前の書物の解読もAIで***, engadget日本版, 2019-07-11
-1. ***AIで日本史研究者やマニアが狂喜乱舞する「くずし字」の翻訳ツールが開発***, PC Watch, 2019-07-11
-1. ***便利すぎるこれ！古文書や浮世絵のくずし字を自動解読してくれる無料の「AIくずし字認識」が素晴らしい！***, Japaaan, 2019-07-11
-1. ***古典書体「くずし字」の判別も--AIで社会課題の解決目指すグーグル「Solve with AI」***, CNET Japan, 2019-07-12
-1. ***AIを「悪の手先」にしないためにGoogleが取り組んでいること***, ITMedia News, 2019-07-14
+1. [医療に災害対策、古文書の読み取りまで――AIによる社会課題の解決を目指すGoogle](https://k-tai.watch.impress.co.jp/docs/news/1195374.html), ケータイ Watch, 2019-07-10
+1. [Googleが日本でAI人材支援、6人の研究者に500万円補助 1000年前の書物の解読もAIで](https://japanese.engadget.com/jp-2019-07-10-google-ai-6-500.html), engadget日本版, 2019-07-11
+1. [AIで日本史研究者やマニアが狂喜乱舞する「くずし字」の翻訳ツールが開発](https://pc.watch.impress.co.jp/docs/news/1195499.html), PC Watch, 2019-07-11
+1. [便利すぎるこれ！古文書や浮世絵のくずし字を自動解読してくれる無料の「AIくずし字認識」が素晴らしい！](https://mag.japaaan.com/archives/101635), Japaaan, 2019-07-11
+1. [古典書体「くずし字」の判別も--AIで社会課題の解決目指すグーグル「Solve with AI」](https://japan.cnet.com/article/35139809/), CNET Japan, 2019-07-12
+1. [AIを「悪の手先」にしないためにGoogleが取り組んでいること](https://www.itmedia.co.jp/news/articles/1907/14/news020.html), ITMedia News, 2019-07-14
 1. [人工知能（AI）の流行で改めて感じる「それはAIでやるべきなのか」という感覚の大切さ](https://news.yahoo.co.jp/byline/yamamotoichiro/20190715-00134368/), Yahoo!ニュース 個人, 2019-07-15
 1. [Google – Solve with AI: Trí tuệ nhân tạo giúp chẩn đoán ung thư và giải quyết các vấn đề của xã hội](https://www.techtimes.vn/google-solve-with-ai-tri-tue-nhan-tao-giup-chan-doan-ung-thu-va-giai-quyet-cac-van-de-cua-xa-hoi/), TechTimes Vietnam, 2019-07-11
 1. [Google tổ chức sự kiện về trí tuệ nhân tạo](https://www.techsignin.com/tintuc/google-tri-tue-nhan-tao-solve-with-ai/), TechSign.in, 2019-07-11
@@ -191,7 +191,8 @@ Google [How TensorFlow AI is helping preserve Japanese culture](https://about.go
 
 
 ## Others
-KMNIST dataset is used in the permanent exhibition at National Museum of Emerging Science and Innovation.
+- KMNIST dataset is used in the permanent exhibition at National Museum of Emerging Science and Innovation (2019)
+- the Hentaigana Application development, a collaboration between UCLA and Waseda University as a project of the Tadashi Yanai Initiative for Globalizing Japanese Humanities (2015)
 
 <!---
 [Link](url) and 
