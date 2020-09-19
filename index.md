@@ -1,5 +1,7 @@
 # Welcome to tkasasagi's website
 
+[Follow me on Twitter](https://twitter.com/tkasasagi)
+
 ![image](../images/desk.jpg)
 
 My name is Tarin Clanuwat. I am originally from Thailand, but now living and working in Japan. I got my PhD in Classical Japanese Literature (文学) from Waseda University, Graduate School of Arts Letters and Science. I specialized in the Tale of Genji's commentary books from Kamakura and Nambokucho period. You can reach me at tkasasagi at gmail.
@@ -19,6 +21,14 @@ Mobile Phone App with Flutter
 ![image](../images/app.gif){:width="200px"}
 
 Because I want the model available and easy to use for everyone, I am also interested in implementing Kuzushiji recognition model with a mobile phone application. I use Flutter with server API. However I want to extend my research to on-device recognition to maximize the resource and not rely on server GPU alone.
+
+## Datasets
+
+I have been working on creating dataset projects.
+
+1. [Kuzushiji Dataset](http://codh.rois.ac.jp/char-shape/)
+1. [Kuzushiji-MNIST (KMNIST), Kuzushiji-49 and Kuzushiji-Kanji Dataset](https://github.com/rois-codh/kmnist)
+1. [KaoKore Dataset](https://github.com/rois-codh/kaokore)
 
 ## Activities
 1. [End-to-end Pre-modern Japanese Kuzushiji Recognition with Deep Learning](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K13085/) Japan Society for the Promotion of Science, Grants-in-Aid for Scientific Research ,Grant-in-Aid for Early-Career Scientists (April 2019 - March 2022)
