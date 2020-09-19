@@ -4,9 +4,12 @@
 
 ![image](../images/desk.jpg)
 
-My name is Tarin Clanuwat. I am originally from Thailand, but now living and working in Japan. I got my PhD in Classical Japanese Literature (文学) from Waseda University, Graduate School of Arts Letters and Science. I specialized in the Tale of Genji's commentary books from Kamakura and Nambokucho period. You can reach me at tkasasagi at gmail.
+My name is Tarin Clanuwat. I am originally from Thailand, but now living and working in Japan. I got my PhD in Classical Japanese Literature (文学) from Waseda University, Graduate School of Arts Letters and Science. I specialized in the Tale of Genji's commentary books from Kamakura and Nambokucho period. I am a project assistant professor at [ROIS-DS Center for Open Data in the Humanities](http://codh.rois.ac.jp) and also a project researcher at the [National Institute of Informatics](https://www.nii.ac.jp).
+You can reach me at tkasasagi at gmail.
 
 ## My Research
+
+### Kuzushiji Recognition Model KuroNet
 
 Raw Image
 ![image](../images/raw.jpg)
@@ -16,7 +19,7 @@ OCR
 
 My current research interest is mainly on Kuzushiji or pre-modern Japanese character recognition with deep learning. I also worked on datasets for machine learning such as KMNIST dataset and KaoKore dataset. I am interested in encouraging humanities researchers to use machine learning and data science in their research because the research in classical literature or history deals with a lot of data all the time.
 
-Mobile Phone App with Flutter
+### Kuzushiji Recognition on Mobile Phone App with Flutter
 
 ![image](../images/app.gif){:width="300px"}
 
