@@ -111,6 +111,7 @@ I have been working on creating dataset projects.
 
 ### Featured
 
+![image](../images/googleblog.png){:width="600px"}
 Google [How TensorFlow AI is helping preserve Japanese culture](https://about.google/stories/tensorflow-ai-japanese-culture/) 
 
 ### TV
