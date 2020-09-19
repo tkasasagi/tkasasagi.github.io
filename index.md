@@ -164,29 +164,30 @@ Google [How TensorFlow AI is helping preserve Japanese culture](https://about.go
 1. ***便利すぎるこれ！古文書や浮世絵のくずし字を自動解読してくれる無料の「AIくずし字認識」が素晴らしい！***, Japaaan, 2019-07-11
 1. ***古典書体「くずし字」の判別も--AIで社会課題の解決目指すグーグル「Solve with AI」***, CNET Japan, 2019-07-12
 1. ***AIを「悪の手先」にしないためにGoogleが取り組んでいること***, ITMedia News, 2019-07-14
-1. ***人工知能（AI）の流行で改めて感じる「それはAIでやるべきなのか」という感覚の大切さ***, Yahoo!ニュース 個人, 2019-07-15
-1. ***Google – Solve with AI: Trí tuệ nhân tạo giúp chẩn đoán ung thư và giải quyết các vấn đề của xã hội***, TechTimes Vietnam, 2019-07-11
-1. ***Google tổ chức sự kiện về trí tuệ nhân tạo***, TechSign.in, 2019-07-11
-1. ***【東京直擊】AI好神　肺癌篩檢比醫生還準***, 蘋果日報, 2019-07-11
-1. ***Penggunaan Pembelajaran Mesin Tensorflow Untuk Memulihara Tulisan 1000 Tahun Kuzushiji***, Amanz, 2019-07-11
-1. ***東京直擊Google Solve with AI論壇 解救人類危機 人工智慧3大應用 癌症篩檢比人工更準確***, 蘋果日報, 2019-07-12
-1. ***Google AI 七项原则发布一年，AI 业务掌门人杰夫·迪恩谈技术与善的距离***, 爱范儿, 2019-07-12
-1. ***Google AI 七項原則發表一年，AI 業務掌門人傑夫‧迪恩談技術與道德的距離***, TechNews 科技新報, 2019-07-15
-1. ***Secrets of billions of ancient Japanese texts being uncovered by AI***, 9news (Australia), 2019-07-15
-1. ***L'intelligence artificielle déchiffre des milliards de textes en japonais ancien***, LeBigData.fr, 2019-07-15
-1. ***HERE'S HOW GOOGLE IS PUTTING AI TO WORK IN HEALTHCARE, ENVIRONMENTAL CONSERVATION, AGRICULTURE AND MORE***, Digit, 2019-07-16
-1. ***I giapponesi hanno cambiato sistema di scrittura e non capiscono più i vecchi documenti. Li salverà un algoritmo?***, Linkiesta, 2019-07-17
-1. ***AIは地球を救う｜石川温のPCスマホニュース解説***, ASCII.jp, 2019-07-22
-1. ***社会課題の解決にAIは貢献できるのか Googleの「Solve with AI」に世界の先端事例を見る***, DIGITAL X（デジタルクロス）, 2019-08-15
-1. ***Mila Newsletter*** - July 2019
-1. ***歴史を『読み解く』:AI で日本の古文書の膨大な文章をより多くの人々へ*** NVIDIA Blog(2019-06-10)
-1. ***The Official NVIDIA Blogのブログ記事By the Book: AI Making Millions of Ancient Japanese Texts More Accessible***, 2019-05-21
-1. ***Deep learning creates Rosetta Stone for Medieval Japanese script***, SAMSUNG NEXT (2019-04-23)
-1. ***「くずし字」をAIで解読する研究がますます盛んに：機械学習と人文系の分野横断的研究も***, Marvin（マーヴィン）人工知能・AIと機械学習の事例メディア (2019-05-21)
-1. ***日本古文書のくずし字、GPU活用したAI技術で自動解析進む***, マイナビニュース (2019-05-22)
-1. ***AIとOCRで、古典資料に書かれた「くずし字」を判読可能に――研究者たちの挑戦***, ITmedia エンタープライズ (2019-05-27)
-1. ***NIHU Magazine 日本語：vol.037 - 情報学から読み解く日本古典文学：はじまりは『源氏物語』***(2019-05-14)
-1. ***NIHU Magazine English: vol.037 - The Tale of Genji to computer science*** (2019-05-14)
+1. [人工知能（AI）の流行で改めて感じる「それはAIでやるべきなのか」という感覚の大切さ](https://news.yahoo.co.jp/byline/yamamotoichiro/20190715-00134368/), Yahoo!ニュース 個人, 2019-07-15
+1. [Google – Solve with AI: Trí tuệ nhân tạo giúp chẩn đoán ung thư và giải quyết các vấn đề của xã hội](https://www.techtimes.vn/google-solve-with-ai-tri-tue-nhan-tao-giup-chan-doan-ung-thu-va-giai-quyet-cac-van-de-cua-xa-hoi/), TechTimes Vietnam, 2019-07-11
+1. [Google tổ chức sự kiện về trí tuệ nhân tạo](https://www.techsignin.com/tintuc/google-tri-tue-nhan-tao-solve-with-ai/), TechSign.in, 2019-07-11
+1. [【東京直擊】AI好神　肺癌篩檢比醫生還準](https://tw.appledaily.com/gadget/20190711/K2VBBMGEYUMITRNSVUIU2NHWBE/), 蘋果日報, 2019-07-11
+1. [Penggunaan Pembelajaran Mesin Tensorflow Untuk Memulihara Tulisan 1000 Tahun Kuzushiji](https://amanz.my/2019211234/), Amanz, 2019-07-11
+1. [東京直擊Google Solve with AI論壇 解救人類危機 人工智慧3大應用 癌症篩檢比人工更準確](https://tw.appledaily.com/lifestyle/20190712/SH6U35NKGRWP7KB4NRHBJU5I7U/), 蘋果日報, 2019-07-12
+1. [Google AI 七项原则发布一年，AI 业务掌门人杰夫·迪恩谈技术与善的距离](https://www.ifanr.com/1235220), 爱范儿, 2019-07-12
+1. [Google AI 七項原則發表一年，AI 業務掌門人傑夫‧迪恩談技術與道德的距離](https://technews.tw/2019/07/15/google-ai-jeff-dean-talk-about-ai/), TechNews 科技新報, 2019-07-15
+1. [Secrets of billions of ancient Japanese texts being uncovered by AI](https://www.9news.com.au/technology/artificial-intelligence-ancient-japanese-kuzushiji-texts-being-decoded-by-ai-google-machine-learning-tech-news-update/18669e01-e7f7-4ff4-b30d-885549a7a952), 9news (Australia), 2019-07-15
+1. [L'intelligence artificielle déchiffre des milliards de textes en japonais ancien](https://www.lebigdata.fr/intelligence-artificielle-textes-japonais-ancien), LeBigData.fr, 2019-07-15
+1. [HERE'S HOW GOOGLE IS PUTTING AI TO WORK IN HEALTHCARE, ENVIRONMENTAL CONSERVATION, AGRICULTURE AND MORE](https://www.digit.in/features/software/heres-how-google-is-putting-ai-to-work-in-healthcare-environmental-conservation-agriculture-and-more-49182.html), Digit, 2019-07-16
+1. [I giapponesi hanno cambiato sistema di scrittura e non capiscono più i vecchi documenti. Li salverà un algoritmo?](https://www.linkiesta.it/2019/07/giappone-scrittura-kanji/), Linkiesta, 2019-07-17
+1. [AIは地球を救う｜石川温のPCスマホニュース解説](https://ascii.jp/elem/000/001/900/1900062/), ASCII.jp, 2019-07-22
+1. [社会課題の解決にAIは貢献できるのか Googleの「Solve with AI」に世界の先端事例を見る](https://dcross.impress.co.jp/docs/column/column20190121/001095.html), DIGITAL X（デジタルクロス）, 2019-08-15
+1. [Mila Newsletter](https://preview.mailerlite.com/u9k2d2) - July 2019
+1. [歴史を『読み解く』:AI で日本の古文書の膨大な文章をより多くの人々へ](https://blogs.nvidia.co.jp/2019/06/10/japanese-texts-ai/) NVIDIA Blog(2019-06-10)
+1. [The Official NVIDIA Blogのブログ記事By the Book: AI Making Millions of Ancient Japanese Texts More Accessible](https://blogs.nvidia.com/blog/2019/05/20/japanese-texts-ai/), 2019-05-21
+1. [Deep learning creates Rosetta Stone for Medieval Japanese script](https://samsungnext.com/whats-next/deep-learning-creates-rosetta-stone-for-medieval-japanese-script/), SAMSUNG NEXT (2019-04-23)
+1. [「くずし字」をAIで解読する研究がますます盛んに：機械学習と人文系の分野横断的研究も](https://marvin.news/6464), Marvin（マーヴィン）人工知能・AIと機械学習の事例メディア (2019-05-21)
+1. [日本古文書のくずし字、GPU活用したAI技術で自動解析進む](https://news.mynavi.jp/article/20190522-827654/), マイナビニュース (2019-05-22)
+1. [AIとOCRで、古典資料に書かれた「くずし字」を判読可能に――研究者たちの挑戦](https://www.itmedia.co.jp/enterprise/articles/1905/27/news082.html), ITmedia エンタープライズ (2019-05-27)
+1. [NIHU Magazine 日本語：vol.037 - 情報学から読み解く日本古典文学：はじまりは『源氏物語』](https://www.nihu.jp/ja/publication/nihu_magazine/037) (2019-05-14)
+1. [NIHU Magazine English: vol.037 - The Tale of Genji to computer science](https://www.nihu.jp/en/publication/nihu_magazine/037) (2019-05-14)
+1. Quebec Artificial Intelligence Institute - Mila blog [Choosing AI Benchmark Tasks to Benefit Other Fields](https://medium.com/mila-quebec/choosing-ai-benchmark-tasks-to-benefit-other-fields-90f3a861886e) (2019-4-27)
 
 
 ## Others
