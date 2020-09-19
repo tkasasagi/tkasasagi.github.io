@@ -97,14 +97,14 @@ Google [How TensorFlow AI is helping preserve Japanese culture](https://about.go
 ![image](../images/cctv.jpg)
 2. CCTV [天下财经:秒读古籍 日本AI快速辨识手写体文献](http://tv.cctv.com/2019/12/15/VIDEp0qvkFY2XEI3Dsbb0Qql191215.shtml?spm=C22284.POVEGXmS0v8f.EwwKHMQHBx88.1) (2019)
 
-![image](../images/cnbc.jpg)
+![image](../images/cnbc.png)
 3. CNBC TV-18 [Young Turks: Here's an accessibility app designed for the deaf or hard of hearing](https://www.cnbctv18.com/videos/young-turks/young-turks-heres-an-accessibility-app-designed-for-the-deaf-or-hard-of-hearing-4342401.htm) (2019)
 
 ### Interviews and News Articles
 
 1. [Dataset Search：Googleによる「データセット検索」サイト：AI・機械学習のデータセット辞典](https://www.atmarkit.co.jp/ait/articles/2007/15/news021.html), ＠IT, 2020-07-15
 1. ***くずし字解読AI駆使*** ,読売新聞夕刊, 2020-06-06
-1. ***古文書と災害（４）＝くずし字の読解 難漢字 AIにおまかせ きっかけは源氏物語***, 東京新聞, 朝刊4面, 2020-03-07
+1. ***古文書と災害（４）くずし字の読解 難漢字 AIにおまかせ きっかけは源氏物語***, 東京新聞, 朝刊4面, 2020-03-07
 1. ***古文書と災害 （４）くずし字の読解　難漢字　AIにおまかせ***, 中日新聞, 夕刊5面, 2020-03-17
 1. [「未来技術の旗手たち AIが古文書の”くずし字”を読み、日本の文字文化の扉を開く」](https://ci.nii.ac.jp/naid/40022174370) （商工ジャーナル 46(3), 54-57, 2020-03, 商工中金経済研究所）
 1. [Around DH 2020](https://arounddh.org/en/kuronet) KuroNet.
@@ -123,15 +123,15 @@ Google [How TensorFlow AI is helping preserve Japanese culture](https://about.go
 1. [「くずし字」ＡＩが解読 ラーメン判別法も応用！](https://www3.nhk.or.jp/news/html/20191202/k10012198561000.html), NHK WEB特集, 2019-12-02
 1. ***ラーメン判別法も応用 古文書の「くずし字」AIが解読***, Nらじセレクト, 2019-12-09
 1. ***難解な「くずし字」がＡＩでサクサク読める！読まれないままの文献多く"予想外の事実"見つかる可能性も***, MBSテレビ「ミント！」, 2019-12-10
-1. ***AIで“くずし字”の解読に挑む***, NHK NEWS WEB, 2019-11-11
+1. ***AIでくずし字”の解読に挑む***, NHK NEWS WEB, 2019-11-11
 1. [人文学オープンデータ共同利用センター（CODH）、日本古典籍くずし字データセットに字形データを大幅に追加：データセットを活用した無料のAIくずし字OCRサービスも公開](https://current.ndl.go.jp/node/39489), カレントアウェアネス, 2019-11-12
 1. [くずし字解読　ＡＩの実力は？](https://www.nhk.or.jp/d-navi/sci_cul/2019/11/story/story_20191120/) ｜サイカルジャーナル｜NHKオンライン, NHK, 2019-11-20
 1. [新機能を体験できるサービス「江戸マップβ版」「くずし字データセット閲覧ビューア」も公開](https://current.ndl.go.jp/node/39489), カレントアウェアネス, 2019-11-06
 1. [ＡＩで古文書を読む　埋もれた情報を発掘](https://www.sankei.com/life/news/191018/lif1910180017-n1.html), 産経新聞, 2019-10-18
 1. ***【関西（知）探　解】くずし字解読　ＡＩにおまかせ、史料を眠らせない***, 産経新聞 大阪 朝刊 21面, 2019-10-19
 1. ***［サイエンスＲｅｐｏｒｔ］「くずし字」　ＡＩが解読　６８万字分を学習***, 東京読売新聞 朝刊 34面, 2019-10-20
-1. ***サイエンス　Report＝「くずし字」　AIが解読　68万字分を学習　精度90%***, 読売新聞 朝刊34面, 2019-10-20
-1. ***サイエンス　Report＝「くずし字」　AIが解読　68万字分を学習　精度90%***, 読売新聞（大阪） 朝刊23面, 2019-10-20
+1. ***サイエンス　Report「くずし字」　AIが解読　68万字分を学習　精度90%***, 読売新聞 朝刊34面, 2019-10-20
+1. ***サイエンス　Report「くずし字」　AIが解読　68万字分を学習　精度90%***, 読売新聞（大阪） 朝刊23面, 2019-10-20
 1. [古典のＡＩ解読　埋もれた知を掘り起こしたい](https://www.yomiuri.co.jp/editorial/20191025-OYT1T50059/), 読売新聞 社説, 2019-10-25
 1. ***難読古文書　一気に解読　筆書き崩し字活字に　市民参加型でたのしく　AI開発コンペ実施***, 徳島新聞 夕刊1面, 2019-11-06
 1. ***古典・古文書の難読「くずし字」、AIが瞬時に解読…精度90％も***, 読売新聞オンライン, 2019-11-11
