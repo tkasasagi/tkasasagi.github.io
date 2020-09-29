@@ -1,9 +1,5 @@
 # Welcome to tkasasagi's website
 
-[Follow me on Twitter](https://twitter.com/tkasasagi)
-
-![image](../images/desk.jpg)
-
 My name is Tarin Clanuwat. I got my PhD in Classical Japanese Literature (文学) from Waseda University, Graduate School of Arts Letters and Science. I specialized in the Tale of Genji's commentary books from Kamakura and Nambokucho period. I am a project assistant professor at [ROIS-DS Center for Open Data in the Humanities](http://codh.rois.ac.jp) and also a project researcher at the [National Institute of Informatics](https://www.nii.ac.jp).
 
 ## My Research
@@ -113,19 +109,14 @@ I have been working on creating dataset projects.
 
 ### Featured
 
-![image](../images/googleblog.png){:width="600px"}
-
 Google Story [How TensorFlow AI is helping preserve Japanese culture](https://about.google/stories/tensorflow-ai-japanese-culture/) 
 
 ### TV
 
-![image](../images/nhk.jpg){:width="400px"}
 1. NHK BS1 [Cool Japan "Character"](https://www.nhk.jp/p/cooljapan/ts/P2RMMPW5JM/list/) (2020)
 
-![image](../images/cctv.jpg){:width="400px"}
 2. CCTV [天下财经:秒读古籍 日本AI快速辨识手写体文献](http://tv.cctv.com/2019/12/15/VIDEp0qvkFY2XEI3Dsbb0Qql191215.shtml?spm=C22284.POVEGXmS0v8f.EwwKHMQHBx88.1) (2019)
 
-![image](../images/cnbc.png){:width="400px"}
 3. CNBC TV-18 [Young Turks: Here's an accessibility app designed for the deaf or hard of hearing](https://www.cnbctv18.com/videos/young-turks/young-turks-heres-an-accessibility-app-designed-for-the-deaf-or-hard-of-hearing-4342401.htm) (2019)
 
 ### Interviews and News Articles
