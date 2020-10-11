@@ -4,6 +4,8 @@ My name is Tarin Clanuwat. I got my PhD in Classical Japanese Literature (文学
 
 ## My Research
 
+[My Google Scholar](https://scholar.google.com/citations?user=oGpFVUUAAAAJ&hl=en&oi=ao)
+
 ### Kuzushiji Recognition Model KuroNet
 
 Raw Image
