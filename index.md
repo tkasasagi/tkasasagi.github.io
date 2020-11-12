@@ -48,7 +48,7 @@ I have been working on creating dataset projects.
 
 ## Digital Humanities and Machine Learning Papers
 
-1. <ins>Tarin Clanuwat</ins>, Asanobu Kitamoto ***The Evolution of Kuzushiji Recognition Research and Services*** Information Processing Society of Japan SIG Humanities and Computer Symposium 2020 (December 2020)
+1. <ins>Tarin Clanuwat</ins>, Asanobu Kitamoto ***The Evolution of Kuzushiji Recognition Research and Services*** Information Processing Society of Japan SIG Humanities and Computer Symposium 2020 (December 2020)(Peer-Reviewed)
 1. Yingtao Tian, Chikahiko Suzuki, <ins>Tarin Clanuwat</ins>, Mikel Bober-Irizar, Alex Lamb, Asanobu Kitamoto [KaoKore: A Pre-modern Japanese Art Facial Expression Dataset](https://arxiv.org/abs/2002.08595), Proceedings of the 11th International Conference on Computational Creativity (ICCC'20) 415 1.422 (September 2020)(Peer-Reviewed)
 1. Alex Lamb, <ins>Tarin Clanuwat</ins>, Asanobu Kitamoto [KuroNet: Regularized Residual U-Nets for End-to-End Kuzushiji Character Recognition](https://link.springer.com/article/10.1007/s42979-020-00186-z?wt_mc=Internal.Event.1.SEM.ArticleAuthorIncrementalIssue) SN Computer Science (May 2020)(Peer-reviewed) 
 1. Asanobu Kitamoto, <ins>Tarin Clanuwat</ins> ***AI Kuzushiji Recognition and a Path to Full-Text Search for Historical Documents*** Bulletin of the Japan Special Libraries Association vol 300, Page 26 1.32 (May 2020)(Invited) 
@@ -73,6 +73,7 @@ I have been working on creating dataset projects.
 1. <ins>Tarin Clanuwat</ins> ***Research on Kuyobunko "Genjimonogatarisho" Commentary Book*** (『源氏物語』古注釈の研究―九曜文庫本『源氏物語抄』を中心に―) Waseda University Master Thesis, (March 2012)(Peer-reviewed)
 
 ## Conference Presentations
+1. ***The Evolution of Kuzushiji Recognition Research and Services*** Information Processing Society of Japan SIG Humanities and Computer Symposium 2020 (December 2020)
 1. ***KaoKore: A Pre-modern Japanese Art Facial Expression Dataset*** , the 11th International Conference on Computational Creativity (ICCC'20) (September 2020)
 1. ***KuroNet: Pre-Modern Japanese Kuzushiji Character Recognition with Deep Learning*** , The International Conference on Document Analysis and Recognition (ICDAR) (September 2019)
 1. ***Deep Learning for Classical Japanese Literature*** , Neural Information Processing Systems (NeurIPS), Machine Learning for Creativity and Design Workshop (December 2018) 
