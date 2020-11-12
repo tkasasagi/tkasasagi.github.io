@@ -48,6 +48,7 @@ I have been working on creating dataset projects.
 
 ## Digital Humanities and Machine Learning Papers
 
+1. <ins>Tarin Clanuwat</ins>, Asanobu Kitamoto *** The Evolution of Kuzushiji Recognition Research and Services *** Information Processing Society of Japan SIG Humanities and Computer Symposium 2020 (December 2020)
 1. Yingtao Tian, Chikahiko Suzuki, <ins>Tarin Clanuwat</ins>, Mikel Bober-Irizar, Alex Lamb, Asanobu Kitamoto [KaoKore: A Pre-modern Japanese Art Facial Expression Dataset](https://arxiv.org/abs/2002.08595), Proceedings of the 11th International Conference on Computational Creativity (ICCC'20) 415 1.422 (September 2020)(Peer-Reviewed)
 1. Alex Lamb, <ins>Tarin Clanuwat</ins>, Asanobu Kitamoto [KuroNet: Regularized Residual U-Nets for End-to-End Kuzushiji Character Recognition](https://link.springer.com/article/10.1007/s42979-020-00186-z?wt_mc=Internal.Event.1.SEM.ArticleAuthorIncrementalIssue) SN Computer Science (May 2020)(Peer-reviewed) 
 1. Asanobu Kitamoto, <ins>Tarin Clanuwat</ins> ***AI Kuzushiji Recognition and a Path to Full-Text Search for Historical Documents*** Bulletin of the Japan Special Libraries Association vol 300, Page 26 1.32 (May 2020)(Invited) 
@@ -125,6 +126,7 @@ Google Story [How TensorFlow AI is helping preserve Japanese culture](https://ab
 
 ### Interviews and News Articles
 
+1. [図書館情報学とAIの新展開 ーAI文字認識×クラウドソーシングで史料のテキスト化を加速【第2回 人工知能学会誌コラボ】](https://ainow.ai/2020/11/02/243594/) AINOW, 2020-11-02
 1. [Dataset Search：Googleによる「データセット検索」サイト：AI・機械学習のデータセット辞典](https://www.atmarkit.co.jp/ait/articles/2007/15/news021.html), ＠IT, 2020-07-15
 1. くずし字解読AI駆使 ,読売新聞夕刊, 2020-06-06
 1. 古文書と災害（４）くずし字の読解 難漢字 AIにおまかせ きっかけは源氏物語, 東京新聞, 朝刊4面, 2020-03-07
