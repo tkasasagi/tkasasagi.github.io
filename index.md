@@ -33,6 +33,7 @@ I have been working on creating dataset projects.
 1. [KaoKore Dataset](https://github.com/rois-codh/kaokore)
 
 ## Activities
+1. [Kuzushiji Recognition Smartphone Application](https://www.jst.go.jp/kisoken/act-x/application/2020/201124/201124.html) Japan Science and Technology Agency, ACT-X AI Powered Innovation / Creation research grant (Acceptance Rate 21.9%, December 2020)
 1. [End-to-end Pre-modern Japanese Kuzushiji Recognition with Deep Learning](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K13085/) Japan Society for the Promotion of Science, Grants-in-Aid for Scientific Research ,Grant-in-Aid for Early-Career Scientists (April 2019 - March 2022)
 1. [Kaggle Kuzushiji Recognition Competition](https://www.kaggle.com/c/kuzushiji-recognition) Host (2019)
 1. [The Tadashi Yanai Initiative for Globalizing Japanese Humanities, Visiting Graduate Researcher](https://www.alc.ucla.edu/person/tarin-clanuwat/) at the University of California, Los Angeles (UCLA) (2016)
