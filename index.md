@@ -48,7 +48,7 @@ I have been working on creating dataset projects.
 1. ***Japanese Government Scholarship (MEXT)*** Embassy Recommendation (2008 1.2015).
 
 ## Digital Humanities and Machine Learning Papers
-
+1. Lisa Suzuki,  Rei Kawakami, <ins>Tarin Clanuwat</ins>, Asanobu Kitamoto, Toshiaki Nakazawa, Takeshi Naemura ***Sentence Boundary Estimation of Ancient Japanese Using Bi-LSTM*** Information Processing Society of Japan SIG Humanities and Computer Symposium 2020 (December 2020)(Peer-Reviewed)
 1. <ins>Tarin Clanuwat</ins>, Asanobu Kitamoto ***The Evolution of Kuzushiji Recognition Research and Services*** Information Processing Society of Japan SIG Humanities and Computer Symposium 2020 (December 2020)(Peer-Reviewed)
 1. Yingtao Tian, Chikahiko Suzuki, <ins>Tarin Clanuwat</ins>, Mikel Bober-Irizar, Alex Lamb, Asanobu Kitamoto [KaoKore: A Pre-modern Japanese Art Facial Expression Dataset](https://arxiv.org/abs/2002.08595), Proceedings of the 11th International Conference on Computational Creativity (ICCC'20) 415 1.422 (September 2020)(Peer-Reviewed)
 1. Alex Lamb, <ins>Tarin Clanuwat</ins>, Asanobu Kitamoto [KuroNet: Regularized Residual U-Nets for End-to-End Kuzushiji Character Recognition](https://link.springer.com/article/10.1007/s42979-020-00186-z?wt_mc=Internal.Event.1.SEM.ArticleAuthorIncrementalIssue) SN Computer Science (May 2020)(Peer-reviewed) 
@@ -92,7 +92,8 @@ I have been working on creating dataset projects.
 1. <ins>Tarin Clanuwat</ins> [Fumi Vol. 14 KuroNet: Kuzushiji Recognition with AI](https://www.nijl.ac.jp/pages/cijproject/en/newsletter_fumi_new.html) The National Institute of Japanese Literature (June 2020)
 
 ## Invited Talks
-
+1. ***Japanese Culture and AI***, JST Sakura Science Club, Japan Science and Technology Agency (March 2021)
+1. ***AI and Minna de Honkoku***, Minna de Honkoku Summit (Feb 2021)
 1. ***Kuzushiji and Premodern Japanese Studies: Learning Resources and Artificial Intelligence Initiatives***, Centre for Japanese Research, the University of British Columbia, Canada (July 2020) 
 1. ***International Women's Day, Women Techmakers Tokyo 2020 日本文化とAI：くずし字認識の研究***, ***Google Developer Group*** Tokyo (May 2020) 
 1. ***日本文化とAI：くずし字認識***, the University of Electro-Communications、Tokyo (May 2020) 
