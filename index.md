@@ -92,6 +92,10 @@ I have been working on creating dataset projects.
 1. <ins>Tarin Clanuwat</ins> [Fumi Vol. 14 KuroNet: Kuzushiji Recognition with AI](https://www.nijl.ac.jp/pages/cijproject/en/newsletter_fumi_new.html) The National Institute of Japanese Literature (June 2020)
 
 ## Invited Talks
+1. ***TBA***, The Alan Turing Inistutite, UK (July 2021)
+1. ***Google Spotlight on Women in Research APAC***, Google Asia & Pacific (May 2021)
+1. ***くずし字とAI***, Lenovo Japan , Tokyo, Japan(May 2021)
+1. ***Nissan Seminar: Deciphering pre-modern Japanese manuscripts: kuzushiji recognition systems and AI***, Nissan Institute of Japanese Studies, Oxford School of Global and Area Studes, Universoty of Oxford, UK (June 2021)
 1. ***Japanese Culture and AI***, JST Sakura Science Club, Japan Science and Technology Agency (March 2021)
 1. ***AI and Minna de Honkoku***, Minna de Honkoku Summit (Feb 2021)
 1. ***Kuzushiji and Premodern Japanese Studies: Learning Resources and Artificial Intelligence Initiatives***, Centre for Japanese Research, the University of British Columbia, Canada (July 2020) 
@@ -129,6 +133,7 @@ Google Story [How TensorFlow AI is helping preserve Japanese culture](https://ab
 
 ### Interviews and News Articles
 
+1. [［顔］難解？外国語なので当然…くずし字を解読するアプリを開発　カラーヌワット・タリンさん](https://www.yomiuri.co.jp/culture/20210710-OYT8T50109/?fbclid=IwAR0z2OIFtJvHvAqBKhbFEofU8qn-1_TsPFiyx0MTMnl6E10FIRb_dKw8cZc)読売新聞, 2021-07-11
 1. [図書館情報学とAIの新展開 ーAI文字認識×クラウドソーシングで史料のテキスト化を加速【第2回 人工知能学会誌コラボ】](https://ainow.ai/2020/11/02/243594/) AINOW, 2020-11-02
 1. [Dataset Search：Googleによる「データセット検索」サイト：AI・機械学習のデータセット辞典](https://www.atmarkit.co.jp/ait/articles/2007/15/news021.html), ＠IT, 2020-07-15
 1. くずし字解読AI駆使 ,読売新聞夕刊, 2020-06-06
