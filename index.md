@@ -1,5 +1,7 @@
 # Welcome to tkasasagi's website
 
+For media and other inquiry please use this [form](https://forms.gle/dhDgHyLas9svxENQ9)
+
 My name is Tarin Clanuwat. I am a research scientist at [Google Brain](https://research.google/teams/brain/) team in Tokyo. I got my PhD in Classical Japanese Literature (文学) from Waseda University, Graduate School of Arts Letters and Science. I specialized in the Tale of Genji's commentary books from Kamakura and Nambokucho period. Previously I was a project assistant professor at [ROIS-DS Center for Open Data in the Humanities](http://codh.rois.ac.jp) and also a project researcher at the [National Institute of Informatics](https://www.nii.ac.jp). 
 
 ## My Research
