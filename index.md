@@ -47,9 +47,11 @@ I have been working on creating dataset projects.
 1. [Information Processing Society of Japan (IPSJ)](https://www.ipsj.or.jp/award/yamasita2019-detail.html) ***Yamashita Memorial Reseach Award*** (2019).
 1. [Information Processing Society of Japan (IPJS) SIG Computers and Humanities Symposium](http://jinmoncom.jp/sympo2018/) ***Best Paper Award*** (2019).
 1. TC11 (Reading Systems) and TC10 (Graphics Recognition) Summer School on Document Analysis and Recognition ***Excellent Award*** (2018).
-1. ***Japanese Government Scholarship (MEXT)*** Embassy Recommendation (2008 1.2015).
+1. ***Japanese Government Scholarship (MEXT)*** Embassy Recommendation (2008 ~ 2015).
 
 ## Digital Humanities and Machine Learning Papers
+1.<ins>Tarin Clanuwat</ins>, Asanobu Kitamoto ***資料調査のための AI くずし字認識スマホアプリ「みを」*** Information Processing Society of Japan SIG Humanities and Computer Symposium 2021 (December 2021)(Peer-Reviewed)
+1.Alex Lamb, <ins>Tarin Clanuwat</ins>, Siyu Han, Mikel Bober-Irizar, Asanobu Kitamoto ***Predicting the Ordering of Characters in Japanese Historical Documents*** [arxiv](https://arxiv.org/abs/2106.06786)
 1. Lisa Suzuki,  Rei Kawakami, <ins>Tarin Clanuwat</ins>, Asanobu Kitamoto, Toshiaki Nakazawa, Takeshi Naemura ***Sentence Boundary Estimation of Ancient Japanese Using Bi-LSTM*** Information Processing Society of Japan SIG Humanities and Computer Symposium 2020 (December 2020)(Peer-Reviewed)
 1. <ins>Tarin Clanuwat</ins>, Asanobu Kitamoto ***The Evolution of Kuzushiji Recognition Research and Services*** Information Processing Society of Japan SIG Humanities and Computer Symposium 2020 (December 2020)(Peer-Reviewed)
 1. Yingtao Tian, Chikahiko Suzuki, <ins>Tarin Clanuwat</ins>, Mikel Bober-Irizar, Alex Lamb, Asanobu Kitamoto [KaoKore: A Pre-modern Japanese Art Facial Expression Dataset](https://arxiv.org/abs/2002.08595), Proceedings of the 11th International Conference on Computational Creativity (ICCC'20) 415 1.422 (September 2020)(Peer-Reviewed)
@@ -76,6 +78,7 @@ I have been working on creating dataset projects.
 1. <ins>Tarin Clanuwat</ins> ***Research on Kuyobunko "Genjimonogatarisho" Commentary Book*** (『源氏物語』古注釈の研究―九曜文庫本『源氏物語抄』を中心に―) Waseda University Master Thesis, (March 2012)(Peer-reviewed)
 
 ## Conference Presentations
+1. ***資料調査のための AI くずし字認識スマホアプリ「みを」*** Information Processing Society of Japan SIG Humanities and Computer Symposium 2021 (December 2021)
 1. ***The Evolution of Kuzushiji Recognition Research and Services*** Information Processing Society of Japan SIG Humanities and Computer Symposium 2020 (December 2020)
 1. ***KaoKore: A Pre-modern Japanese Art Facial Expression Dataset*** , the 11th International Conference on Computational Creativity (ICCC'20) (September 2020)
 1. ***KuroNet: Pre-Modern Japanese Kuzushiji Character Recognition with Deep Learning*** , The International Conference on Document Analysis and Recognition (ICDAR) (September 2019)
@@ -94,7 +97,10 @@ I have been working on creating dataset projects.
 1. <ins>Tarin Clanuwat</ins> [Fumi Vol. 14 KuroNet: Kuzushiji Recognition with AI](https://www.nijl.ac.jp/pages/cijproject/en/newsletter_fumi_new.html) The National Institute of Japanese Literature (June 2020)
 
 ## Invited Talks
-1. ***TBA***, The Alan Turing Inistutite, UK (July 2021)
+1. ***AIくずし字認識アプリ「みを」：機械学習の運用の課題***, NeurIPS Meetup Japan 2021 (December 2021)
+1. ***"miwo" AI Kuzushiji Recognition Application for Japanese Historical Document***, Ritsumeikan University Art Research Center (December 2021)
+1. ***AIくずし字認識アプリ「みを」プロジェクトから学んだこと***, Google Cloud MLSummit invited talk, Japan (November 2021)
+1. ***miwo Kuzushiji recognition smartphone application with AI***, The Alan Turing Inistutite, UK (July 2021)
 1. ***Google Spotlight on Women in Research APAC***, Google Asia & Pacific (May 2021)
 1. ***くずし字とAI***, Lenovo Japan , Tokyo, Japan(May 2021)
 1. ***Nissan Seminar: Deciphering pre-modern Japanese manuscripts: kuzushiji recognition systems and AI***, Nissan Institute of Japanese Studies, Oxford School of Global and Area Studes, Universoty of Oxford, UK (June 2021)
@@ -135,6 +141,8 @@ Google Story [How TensorFlow AI is helping preserve Japanese culture](https://ab
 
 ### Interviews and News Articles
 
+1. [源氏物語も春画の文字も読めちゃう！AIくずし字認識アプリ「みを（miwo）」開発者インタビュー](https://intojapanwaraku.com/culture/176034/)
+1. [源氏物語が好きすぎてAIくずし字認識に挑戦でグーグル入社 タイ出身女性が語る「前人未到の人生」](https://ledge.ai/tkasasagi-interview/)
 1. [［顔］難解？外国語なので当然…くずし字を解読するアプリを開発　カラーヌワット・タリンさん](https://www.yomiuri.co.jp/culture/20210710-OYT8T50109/?fbclid=IwAR0z2OIFtJvHvAqBKhbFEofU8qn-1_TsPFiyx0MTMnl6E10FIRb_dKw8cZc)読売新聞, 2021-07-11
 1. [図書館情報学とAIの新展開 ーAI文字認識×クラウドソーシングで史料のテキスト化を加速【第2回 人工知能学会誌コラボ】](https://ainow.ai/2020/11/02/243594/) AINOW, 2020-11-02
 1. [Dataset Search：Googleによる「データセット検索」サイト：AI・機械学習のデータセット辞典](https://www.atmarkit.co.jp/ait/articles/2007/15/news021.html), ＠IT, 2020-07-15
