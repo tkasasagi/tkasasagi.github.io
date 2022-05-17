@@ -33,6 +33,7 @@ I have been working on creating dataset projects.
 1. [Kuzushiji Dataset](http://codh.rois.ac.jp/char-shape/)
 1. [Kuzushiji-MNIST (KMNIST), Kuzushiji-49 and Kuzushiji-Kanji Dataset](https://github.com/rois-codh/kmnist)
 1. [KaoKore Dataset](https://github.com/rois-codh/kaokore)
+1. [Ukiyo-e Face Datasets](http://codh.rois.ac.jp/ukiyo-e/face-dataset/)
 
 ## Activities
 1. [Kuzushiji Recognition Smartphone Application](https://www.jst.go.jp/kisoken/act-x/application/2020/201124/201124.html) Japan Science and Technology Agency, ACT-X AI Powered Innovation / Creation research grant (Acceptance Rate 21.9%, December 2020)
@@ -42,7 +43,7 @@ I have been working on creating dataset projects.
 
 ## Awards
 
-1. [Code for Japan　勝手表彰](https://prtimes.jp/main/html/rd/p/000000047.000039198.html) ***Excellent Award*** for Kuzushiji Recognition Application "miwo".
+1. [Code for Japan　勝手表彰](https://prtimes.jp/main/html/rd/p/000000047.000039198.html) ***Excellent Award*** for Kuzushiji Recognition Application "miwo" (2022).
 2. [Digital Archive Promotion Consortium](https://dapcon.jp/uncategorized/award2020/) ***Technical Award*** for Kuzushiji dataset research and KuroNet service (2020).
 3. [Japan Society for Digital Archive](http://digitalarchivejapan.org/4611) ***Academic Award (Research Paper)*** (2020).
 4. [Information Processing Society of Japan (IPSJ)](https://www.ipsj.or.jp/award/yamasita2019-detail.html) ***Yamashita Memorial Reseach Award*** (2019).
