@@ -43,7 +43,7 @@ I have been working on creating dataset projects.
 
 ## Awards
 
-1. [Code for Japan　勝手表彰](https://prtimes.jp/main/html/rd/p/000000047.000039198.html) ***Excellent Award*** for Kuzushiji Recognition Application "miwo" (2022).
+1. [Code for Japan 勝手表彰](https://prtimes.jp/main/html/rd/p/000000047.000039198.html) ***Excellent Award*** for Kuzushiji Recognition Application "miwo" (2022).
 2. [Digital Archive Promotion Consortium](https://dapcon.jp/uncategorized/award2020/) ***Technical Award*** for Kuzushiji dataset research and KuroNet service (2020).
 3. [Japan Society for Digital Archive](http://digitalarchivejapan.org/4611) ***Academic Award (Research Paper)*** (2020).
 4. [Information Processing Society of Japan (IPSJ)](https://www.ipsj.or.jp/award/yamasita2019-detail.html) ***Yamashita Memorial Reseach Award*** (2019).
