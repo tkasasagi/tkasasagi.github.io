@@ -131,7 +131,8 @@ I have been working on creating dataset projects.
 
 ### Featured
 
-Google Story [How TensorFlow AI is helping preserve Japanese culture](https://about.google/stories/tensorflow-ai-japanese-culture/) 
+1. The Government of Japan Official #WonderWomanWednesday [Twitter1](https://twitter.com/JapanGov/status/1504047421139038209?s=20&t=6r85qHaiEl_-wk72racjqw) [Twitter2](https://twitter.com/japan/status/1504047424146645000?s=20&t=6r85qHaiEl_-wk72racjqw) [Facebook](https://www.facebook.com/JapanGov/posts/345348524284377)
+2. Google Story [How TensorFlow AI is helping preserve Japanese culture](https://about.google/stories/tensorflow-ai-japanese-culture/) 
 
 ### TV
 
