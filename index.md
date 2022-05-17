@@ -79,6 +79,7 @@ I have been working on creating dataset projects.
 1. <ins>Tarin Clanuwat</ins> ***The Comparison between Aoi no Maki Kochū (Nanamibon and Yoshidabon) and Other Genji Commentaries from the 13th Century*** (『葵巻古注』（七海本・吉田本）の注記―鎌倉時代の『源氏物語』古注釈との比較から―) Heianchō Bungaku Kenkyū [Research into Heian-period Literature] Journal (平安朝文学研究) vol 21 (March 2013)(Peer-reviewed)
 1. <ins>Tarin Clanuwat</ins> ***Research on Kuyobunko "Genjimonogatarisho" Commentary Book*** (『源氏物語』古注釈の研究―九曜文庫本『源氏物語抄』を中心に―) Waseda University Master Thesis, (March 2012)(Peer-reviewed)
 
+
 ## Conference Presentations
 1. ***資料調査のための AI くずし字認識スマホアプリ「みを」*** Information Processing Society of Japan SIG Humanities and Computer Symposium 2021 (December 2021)
 1. ***The Evolution of Kuzushiji Recognition Research and Services*** Information Processing Society of Japan SIG Humanities and Computer Symposium 2020 (December 2020)
