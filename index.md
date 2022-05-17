@@ -144,8 +144,8 @@ Google Story [How TensorFlow AI is helping preserve Japanese culture](https://ab
 ### Interviews and News Articles
 
 1. [AIくずし字認識アプリ「みを」が拓く未来](https://www.ebisukosyo.co.jp/item/645/)『歴史研究』 Vol 700 2022-05-16
-2. [源氏物語も春画の文字も読めちゃう！AIくずし字認識アプリ「みを（miwo）」開発者インタビュー](https://intojapanwaraku.com/culture/176034/) 2021-10
-3. [源氏物語が好きすぎてAIくずし字認識に挑戦でグーグル入社 タイ出身女性が語る「前人未到の人生」](https://ledge.ai/tkasasagi-interview/) 2021-09
+2. [源氏物語も春画の文字も読めちゃう！AIくずし字認識アプリ「みを（miwo）」開発者インタビュー](https://intojapanwaraku.com/culture/176034/) 小学館「和樂」ウェブ　2021-10
+3. [源氏物語が好きすぎてAIくずし字認識に挑戦でグーグル入社 タイ出身女性が語る「前人未到の人生」](https://ledge.ai/tkasasagi-interview/) LedgeAI 2021-09
 4. [［顔］難解？外国語なので当然…くずし字を解読するアプリを開発　カラーヌワット・タリンさん](https://www.yomiuri.co.jp/culture/20210710-OYT8T50109/?fbclid=IwAR0z2OIFtJvHvAqBKhbFEofU8qn-1_TsPFiyx0MTMnl6E10FIRb_dKw8cZc)読売新聞, 2021-07-11
 5. [図書館情報学とAIの新展開 ーAI文字認識×クラウドソーシングで史料のテキスト化を加速【第2回 人工知能学会誌コラボ】](https://ainow.ai/2020/11/02/243594/) AINOW, 2020-11-02
 6. [Dataset Search：Googleによる「データセット検索」サイト：AI・機械学習のデータセット辞典](https://www.atmarkit.co.jp/ait/articles/2007/15/news021.html), ＠IT, 2020-07-15
