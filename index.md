@@ -52,7 +52,7 @@ I have been working on creating dataset projects.
 7. ***Japanese Government Scholarship (MEXT)*** Embassy Recommendation (2008 ~ 2015).
 
 ## Digital Humanities and Machine Learning Papers
-1. <ins>Tarin Clanuwat</ins>, Asanobu Kitamoto ***資料調査のための AI くずし字認識スマホアプリ「みを」*** Information Processing Society of Japan SIG Humanities and Computer Symposium 2021 (December 2021)(Peer-Reviewed)
+1. <ins>Tarin Clanuwat</ins>, Asanobu Kitamoto ***資料調査のための AI くずし字認識スマホアプリ「みを」*** Information Processing Society of Japan SIG Humanities and Computer Symposium 2021 (December 2021)(Peer-Reviewed) 
 1.Alex Lamb, <ins>Tarin Clanuwat</ins>, Siyu Han, Mikel Bober-Irizar, Asanobu Kitamoto ***Predicting the Ordering of Characters in Japanese Historical Documents*** [arxiv](https://arxiv.org/abs/2106.06786)
 1. Lisa Suzuki,  Rei Kawakami, <ins>Tarin Clanuwat</ins>, Asanobu Kitamoto, Toshiaki Nakazawa, Takeshi Naemura ***Sentence Boundary Estimation of Ancient Japanese Using Bi-LSTM*** Information Processing Society of Japan SIG Humanities and Computer Symposium 2020 (December 2020)(Peer-Reviewed)
 1. <ins>Tarin Clanuwat</ins>, Asanobu Kitamoto ***The Evolution of Kuzushiji Recognition Research and Services*** Information Processing Society of Japan SIG Humanities and Computer Symposium 2020 (December 2020)(Peer-Reviewed)
