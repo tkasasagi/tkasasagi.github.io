@@ -43,13 +43,14 @@ I have been working on creating dataset projects.
 
 ## Awards
 
-1. [Code for Japan 勝手表彰](https://prtimes.jp/main/html/rd/p/000000047.000039198.html) ***Excellent Award*** for Kuzushiji Recognition Application "miwo" (2022).
-2. [Digital Archive Promotion Consortium](https://dapcon.jp/uncategorized/award2020/) ***Technical Award*** for Kuzushiji dataset research and KuroNet service (2020).
-3. [Japan Society for Digital Archive](http://digitalarchivejapan.org/4611) ***Academic Award (Research Paper)*** (2020).
-4. [Information Processing Society of Japan (IPSJ)](https://www.ipsj.or.jp/award/yamasita2019-detail.html) ***Yamashita Memorial Reseach Award*** (2019).
-5. [Information Processing Society of Japan (IPJS) SIG Computers and Humanities Symposium](http://jinmoncom.jp/sympo2018/) ***Best Paper Award*** (2019).
-6. TC11 (Reading Systems) and TC10 (Graphics Recognition) Summer School on Document Analysis and Recognition ***Excellent Award*** (2018).
-7. ***Japanese Government Scholarship (MEXT)*** Embassy Recommendation (2008 ~ 2015).
+1. [Good Design Award 2022](https://www.g-mark.org/award/describe/54368?locale=en) for Kuzushiji Recognition Application "miwo" (2022)
+2.  [Code for Japan 勝手表彰](https://prtimes.jp/main/html/rd/p/000000047.000039198.html) ***Excellent Award*** for Kuzushiji Recognition Application "miwo" (2022).
+3. [Digital Archive Promotion Consortium](https://dapcon.jp/uncategorized/award2020/) ***Technical Award*** for Kuzushiji dataset research and KuroNet service (2020).
+4. [Japan Society for Digital Archive](http://digitalarchivejapan.org/4611) ***Academic Award (Research Paper)*** (2020).
+5. [Information Processing Society of Japan (IPSJ)](https://www.ipsj.or.jp/award/yamasita2019-detail.html) ***Yamashita Memorial Reseach Award*** (2019).
+6. [Information Processing Society of Japan (IPJS) SIG Computers and Humanities Symposium](http://jinmoncom.jp/sympo2018/) ***Best Paper Award*** (2019).
+7. TC11 (Reading Systems) and TC10 (Graphics Recognition) Summer School on Document Analysis and Recognition ***Excellent Award*** (2018).
+8. ***Japanese Government Scholarship (MEXT)*** Embassy Recommendation (2008 ~ 2015).
 
 ## Digital Humanities and Machine Learning Papers
 1. <ins>Tarin Clanuwat</ins>, Asanobu Kitamoto ***資料調査のための AI くずし字認識スマホアプリ「みを」*** Information Processing Society of Japan SIG Humanities and Computer Symposium 2021 (December 2021)(Peer-Reviewed) 
@@ -101,28 +102,35 @@ I have been working on creating dataset projects.
 1. <ins>Tarin Clanuwat</ins> [Fumi Vol. 14 KuroNet: Kuzushiji Recognition with AI](https://www.nijl.ac.jp/pages/cijproject/en/newsletter_fumi_new.html) The National Institute of Japanese Literature (June 2020)
 
 ## Invited Talks
-1. ***AIによるくずし字認識の研究*** Yanai Initiative］Seminar: An Invitation to Digital Humanities: AI, Research Collaboration, and Digital Transformation, Haruki Murakami Library, Waseda University (January 2022)
-1. ***AIくずし字認識アプリ「みを」：機械学習の運用の課題***, NeurIPS Meetup Japan 2021 (December 2021)
-1. ***"miwo" AI Kuzushiji Recognition Application for Japanese Historical Document***, Ritsumeikan University Art Research Center (December 2021)
-1. ***AIくずし字認識アプリ「みを」プロジェクトから学んだこと***, Google Cloud MLSummit invited talk, Japan (November 2021)
-1. ***miwo Kuzushiji recognition smartphone application with AI***, The Alan Turing Inistutite, UK (July 2021)
-1. ***Google Spotlight on Women in Research APAC***, Google Asia & Pacific (May 2021)
-1. ***くずし字とAI***, Lenovo Japan , Tokyo, Japan(May 2021)
-1. ***Nissan Seminar: Deciphering pre-modern Japanese manuscripts: kuzushiji recognition systems and AI***, Nissan Institute of Japanese Studies, Oxford School of Global and Area Studes, Universoty of Oxford, UK (June 2021)
-1. ***Japanese Culture and AI***, JST Sakura Science Club, Japan Science and Technology Agency (March 2021)
-1. ***AI and Minna de Honkoku***, Minna de Honkoku Summit (Feb 2021)
-1. ***Kuzushiji and Premodern Japanese Studies: Learning Resources and Artificial Intelligence Initiatives***, Centre for Japanese Research, the University of British Columbia, Canada (July 2020) 
-1. ***International Women's Day, Women Techmakers Tokyo 2020 日本文化とAI：くずし字認識の研究***, ***Google Developer Group*** Tokyo (May 2020) 
-1. ***日本文化とAI：くずし字認識***, the University of Electro-Communications、Tokyo (May 2020) 
-1. ***Kaggle Kuzushiji Recognition Competition​, Kaggle Days Tokyo***, ***Google Japan*** (December 2019)
-1. ***ＡＩによるくずし字認識、古典文学と情報学の世界的なコラボレーション***​, 総研大文化フォーラム2019, the National Institute of Japanese Literature​ (December 2019)
-1. ***Kuzushiji and AI : A Case Study of Multidisciplinary Research***​, the Japan Foundation (November 2019)
-1. ***くずし字ｘAIオンラインで世界に開く日本古典籍​*** , Keio University Hiyoshi Campus、Research Institute for Digital Media and Content (November 2019)
-1. ***Women in Tech Celebration, Tech Talk: Kuzushiji Character Recognition​***, ***Google Japan***​ (November 2019)
-1. ***世界中のアイデアを集めるくずし字コンペの開催***​, 日本文化とAIシンポジウム, 一橋講堂​ (November 2019)
-1. ***Making Millions of Japanese Historical Documents More Accessible with AI***, Google Solve with AI, ***Google Japan​*** (July 2019)
-1. ***Pre-modern Japanese Kuzushiji Character Recognition with Deep Learning​***, the Univerity of Tokyo、Institute for Physics of Intelligence​ (April 2019)
-1. ***End-to-End Pre-Modern Japanese Character (Kuzushiji) Recognition with Deep Learning***, Women in Machine Learning, Machine Learning Tokyo Meetup, ***Google Japan*** (January 2019)
+1. ***AIくずし字認識研究の可能性*** ｢デジタル日本学｣の可能性 symposium, Global Japanese Studies Education and Research Incubator, Osaka University (December 2022)
+2. ***AI for Kuzushiji Recognition Research: What, Why and How?*** The Digital Turn in Early Modern Japanese Studies Conference, University of Cambridge, UK (December 2022)
+3. ***「みをつくし」プロジェクト：AIくずし字認識研究の展開*** The 8th International Conference on Pre-modern Japanese Texts、the National Institute of Japanese Literature (November 2022)
+4. ***機械学習によるくずし字認識への挑戦*** The Society for Japanese Linguitics Conference Special invited talk (October 2022) 
+5. ***The journey to make billions of Japanese historical documents accessible*** the Digital Humanities Conference 2022 ***Keynote*** (July 2022)
+6. ***Deciperting pre-modern Japanese manuscripts: Kuzushiji recognition systems with machine learning*** Google Fellows Summit (July 2022)
+7. ***AIによるくずし字認識研究の現状と課題*** Yamagata University Invited talk for students (May 2022)
+8. ***AIによるくずし字認識の研究*** Yanai Initiative］Seminar: An Invitation to Digital Humanities: AI, Research Collaboration, and Digital Transformation, Haruki Murakami Library, Waseda University (January 2022)
+9. ***AIくずし字認識アプリ「みを」：機械学習の運用の課題***, NeurIPS Meetup Japan 2021 (December 2021)
+10. ***"miwo" AI Kuzushiji Recognition Application for Japanese Historical Document***, Ritsumeikan University Art Research Center (December 2021)
+11. ***AIくずし字認識アプリ「みを」プロジェクトから学んだこと***, Google Cloud MLSummit invited talk, Japan (November 2021)
+12. ***miwo Kuzushiji recognition smartphone application with AI***, The Alan Turing Inistutite, UK (July 2021)
+13. ***Google Spotlight on Women in Research APAC***, Google Asia & Pacific (May 2021)
+14. ***くずし字とAI***, Lenovo Japan , Tokyo, Japan(May 2021)
+15. ***Nissan Seminar: Deciphering pre-modern Japanese manuscripts: kuzushiji recognition systems and AI***, Nissan Institute of Japanese Studies, Oxford School of Global and Area Studes, Universoty of Oxford, UK (June 2021)
+16. ***Japanese Culture and AI***, JST Sakura Science Club, Japan Science and Technology Agency (March 2021)
+17. ***AI and Minna de Honkoku***, Minna de Honkoku Summit (Feb 2021)
+18. ***Kuzushiji and Premodern Japanese Studies: Learning Resources and Artificial Intelligence Initiatives***, Centre for Japanese Research, the University of British Columbia, Canada (July 2020) 
+19. ***International Women's Day, Women Techmakers Tokyo 2020 日本文化とAI：くずし字認識の研究***, ***Google Developer Group*** Tokyo (May 2020) 
+20. ***日本文化とAI：くずし字認識***, the University of Electro-Communications、Tokyo (May 2020) 
+21. ***Kaggle Kuzushiji Recognition Competition​, Kaggle Days Tokyo***, ***Google Japan*** (December 2019)
+22. ***ＡＩによるくずし字認識、古典文学と情報学の世界的なコラボレーション***​, 総研大文化フォーラム2019, the National Institute of Japanese Literature​ (December 2019)
+23. ***Kuzushiji and AI : A Case Study of Multidisciplinary Research***​, the Japan Foundation (November 2019)
+24. ***くずし字ｘAIオンラインで世界に開く日本古典籍​*** , Keio University Hiyoshi Campus、Research Institute for Digital Media and Content (November 2019)
+25. ***Women in Tech Celebration, Tech Talk: Kuzushiji Character Recognition​***, ***Google Japan***​ (November 2019)
+26. ***世界中のアイデアを集めるくずし字コンペの開催***​, 日本文化とAIシンポジウム, 一橋講堂​ (November 2019)
+27. ***Making Millions of Japanese Historical Documents More Accessible with AI***, Google Solve with AI, ***Google Japan​*** (July 2019)
+28. ***Pre-modern Japanese Kuzushiji Character Recognition with Deep Learning​***, the Univerity of Tokyo、Institute for Physics of Intelligence​ (April 2019)
+29. ***End-to-End Pre-Modern Japanese Character (Kuzushiji) Recognition with Deep Learning***, Women in Machine Learning, Machine Learning Tokyo Meetup, ***Google Japan*** (January 2019)
 
 ## Education
 
