@@ -11,7 +11,8 @@ My name is Tarin Clanuwat. I am a senior research scientist at [Google Brain](ht
 ### Kuzushiji Recognition Model KuroNet
 
 Raw Image
-![image](../images/raw.jpg)
+
+![My Image](images/raw.jpg)
 
 OCR
 ![image](../images/ocr.jpg)
