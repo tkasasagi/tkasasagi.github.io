@@ -15,15 +15,15 @@ Raw Image
 ![My Image](images/raw.jpg)
 
 OCR
-![image](../images/ocr.jpg)
+![image](images/ocr.jpg)
 
 My current research interest is mainly on Kuzushiji or pre-modern Japanese character recognition with deep learning. I also worked on datasets for machine learning such as KMNIST dataset and KaoKore dataset. I am interested in encouraging humanities researchers to use machine learning and data science in their research because the research in classical literature or history deals with a lot of data all the time.
 
 ### Kuzushiji Recognition on Mobile Phone App with Flutter
 
-![image](../images/app.gif){:width="300px"}
+![image](images/app.gif){:width="300px"}
 
-![image](../images/app2.gif){:width="500px"}
+![image](images/app2.gif){:width="500px"}
 
 Because I want the model available and easy to use for everyone, I am also interested in implementing Kuzushiji recognition model with a mobile phone application. I use Flutter with server API. However I want to extend my research to on-device recognition to maximize the resource and not rely on server GPU alone.
 
