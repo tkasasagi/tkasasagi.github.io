@@ -43,7 +43,7 @@ I have been working on creating dataset projects.
 
 ## Awards
 
-1. [National Institute of Science and Technology Policy (NISTEP), Ministry of Education, Culture, Sports, Science and Technology]([)](https://www.nistep.go.jp/archives/53711) ***NISTEP Researcher 2022*** (2022)
+1. [National Institute of Science and Technology Policy (NISTEP), Ministry of Education, Culture, Sports, Science and Technology](https://www.nistep.go.jp/archives/53711) ***NISTEP Researcher 2022*** (2022)
 2. [Japan Society of Digital Archive](https://awards.digitalarchivejapan.org/awards/4thawards/) ***Best Platform and System award*** for Kuzushiji Recognition Application "miwo" (2022)
 3. [Good Design Award 2022](https://www.g-mark.org/award/describe/54368?locale=en) for Kuzushiji Recognition Application "miwo" (2022)
 4.  [Code for Japan 勝手表彰](https://prtimes.jp/main/html/rd/p/000000047.000039198.html) ***Excellent Award*** for Kuzushiji Recognition Application "miwo" (2022).
