@@ -173,121 +173,127 @@ I have been working on creating dataset projects.
 
 ### Interviews and News Articles
 
-1. [Academics, startup release AI tool that makes ukiyo-e](https://www.asahi.com/ajw/articles/15361477) Asahi Shimbun 2024-8-8
-2. [Sakana AI drops image models to generate Japan’s traditional ukiyo-e artwork](https://venturebeat.com/ai/sakana-ai-drops-image-models-to-generate-japans-traditional-ukiyo-e-artwork/) VentureBeat 2024-7-22
-3. [Sakana AI、浮世絵風画像生成モデル「Evo-Ukiyoe」と浮世絵カラー化モデル「Evo-Nishikie」公開](https://aismiley.co.jp/ai_news/sakana-ai-evo-ukiyoe-evo-nishikie-ritsumeikan/) AISmiley 2024-7-31
-4. [浮世絵生成AI「Evo-Ukiyoe」と浮世絵カラー化AI「Evo-Nishikie」が登場](https://gigazine.net/news/20240723-evo-ukiyoe/) Gigazine 2024-7-31
-5. [日本語プロンプトから“浮世絵風画像”を生成できる「Evo-Ukiyoe」、日本発のSakana AIが公開](https://forest.watch.impress.co.jp/docs/news/1610382.html) Windows Forest 22024-7-23
-6. [浮世絵風の画像を生成するAIモデル、日本のAIベンチャーSakana AIが発表](https://ascii.jp/elem/000/004/211/4211174/) Ascii x AI 2024-7-22
-7. [Sakana AI株式会社、浮世絵風画像生成モデルと浮世絵カラー化モデルを公開](https://current.ndl.go.jp/car/223190) Current Awareness Portal 2024-7-21
-8. [Sakana.ai、浮世絵風イラスト生成AIを公開　浮世絵をカラー化するAIも](https://www.itmedia.co.jp/news/articles/2407/22/news089.html) ITmedia news 2024-7-22
-9. [Sakana AI lets you turn pics into traditional Japanese art](https://technology.inquirer.net/135989/sakana-ai-lets-you-turn-pics-into-traditional-japanese-art) Inquirer.Net 2024-7-23
-10. [Sakana AIが新たな浮世絵生成モデルを開発　日本の伝統美をAIで再現](https://ledge.ai/articles/sakana_ai_evo-ukiyoe_evo-nishikie) Ledge.ai 20204-7-26
-11. [Sakana AI、浮世絵を蘇らせるAIモデルを発表](https://thebridge.jp/2024/07/sakana-ai-drops-image-models-to-generate-japans-traditional-ukiyo-e-artwork) Bridge 2024-7-23
-12. [浮世絵風の画像をAIが生成｜日本文化を学んだ新技術が公開](https://techreport.com/jp/news/ai-generates-ukiyo-e-style-images/) TechReport 2024-7-23
-13. [本格的な“浮世絵風”画像生成AI「Evo-Ukiyoe」　Sakana AI](https://www.watch.impress.co.jp/docs/news/1610140.html) ImpressWatch 2024-7-22
-14. [Sakana.ai、浮世絵風イラスト生成AIを公開　浮世絵をカラー化するAIも](https://news.goo.ne.jp/article/itmedia_news/trend/itmedia_news-20240722_089.html) goo news 2024-7-22
-15. [浮世絵風の絵を出力できる生成AI](https://pc.watch.impress.co.jp/docs/news/1610700.html) PCWatch 2024-7-24
-16. [浮世絵を描く生成AI、古典文学研究者が開発　サカナAIが無料公開](https://www.asahi.com/articles/ASS7L34R3S7LULFA02DM.html) Asahi Shimbun 2024-7-22
-17. [Introducing the Ukiyo-e generation AI 'Evo-Ukiyoe' and the Ukiyo-e colorization AI 'Evo-Nishikie'](https://gigazine.net/gsc_news/en/20240723-evo-ukiyoe/) Gigazine 2024-7-23
-19. [Sakana AI Launches New Models for Ukiyo-e Art Generation and Colorization](https://www.maginative.com/article/sakana-ai-launches-new-models-for-ukiyo-e-art-generation-and-colorization/) Maginative 2024-7-22
-20. [AIくずし字認識アプリ「みを」が拓く未来](https://www.ebisukosyo.co.jp/item/645/)『歴史研究』 Vol 700 2022-05-16
-21. [人文学のAI活用広がる　くずし字解読、絵画資料分析も](https://www.nikkei.com/article/DGXZQOUD218AB0R20C22A1000000/) 日本経済新聞, 2021-01-31
-22. [源氏物語も春画の文字も読めちゃう！AIくずし字認識アプリ「みを（miwo）」開発者インタビュー](https://intojapanwaraku.com/culture/176034/) 小学館「和樂」ウェブ　2021-10
-23. [源氏物語が好きすぎてAIくずし字認識に挑戦でグーグル入社 タイ出身女性が語る「前人未到の人生」](https://ledge.ai/tkasasagi-interview/) LedgeAI 2021-09
-24. [［顔］難解？外国語なので当然…くずし字を解読するアプリを開発　カラーヌワット・タリンさん](https://www.yomiuri.co.jp/culture/20210710-OYT8T50109/?fbclid=IwAR0z2OIFtJvHvAqBKhbFEofU8qn-1_TsPFiyx0MTMnl6E10FIRb_dKw8cZc)読売新聞, 2021-07-11
-25. [図書館情報学とAIの新展開 ーAI文字認識×クラウドソーシングで史料のテキスト化を加速【第2回 人工知能学会誌コラボ】](https://ainow.ai/2020/11/02/243594/) AINOW, 2020-11-02
-26. [Dataset Search：Googleによる「データセット検索」サイト：AI・機械学習のデータセット辞典](https://www.atmarkit.co.jp/ait/articles/2007/15/news021.html), ＠IT, 2020-07-15
-27. くずし字解読AI駆使 ,読売新聞夕刊, 2020-06-06
-28. 古文書と災害（４）くずし字の読解 難漢字 AIにおまかせ きっかけは源氏物語, 東京新聞, 朝刊4面, 2020-03-07
-29. 古文書と災害 （４）くずし字の読解　難漢字　AIにおまかせ, 中日新聞, 夕刊5面, 2020-03-17
-30. [「未来技術の旗手たち AIが古文書の”くずし字”を読み、日本の文字文化の扉を開く」](https://ci.nii.ac.jp/naid/40022174370) （商工ジャーナル 46(3), 54-57, 2020-03, 商工中金経済研究所）
-31. [Around DH 2020](https://arounddh.org/en/kuronet) KuroNet.
-32. [ＡＩがくずし字を読む時代がやってきた](https://www.nijl.ac.jp/pages/cijproject/images/fumi_13.pdf), ふみ第13号, 1-3ページ, 2020-01-15
-33. [［とれんど］きっかけは「源氏物語」](https://www.yomiuri.co.jp/kyoiku/kyoiku/news/20200118-OYT1T50224/) 論説委員　鳥山　忠志, 読売新聞, 2020-01-18
-34. [KMNIST／Kuzushiji-MNIST：日本古典籍くずし字（手書き文字）データセット](https://www.atmarkit.co.jp/ait/articles/2001/27/news022.html), AI・機械学習のデータセット辞典 - ＠IT, 2020-01-27
-35. [日本文化とAIシンポジウム2019～AIがくずし字を読む時代がやってきた～](https://jipsti.jst.go.jp/johokanri/sti_updates/?id=11784), STI Updates, 2020-01-28
-36. [【保存版】オープンデータ・データセット100選 -膨大なデータを活用しよう！](https://ainow.ai/2020/03/02/183280/), AINOW, 2020-03-02
-37. [「美空ひばり」「ラーメン」「くずし字」…日本のAI技術の現状](https://asagei.biz/excerpt/10797), Asagei Biz-アサ芸ビズ, 2019-12-21
-38. [「日本文化とAIシンポジウム2019　～AIがくずし字を読む時代がやってきた～」の発表資料とポスターが公開される](https://current.ndl.go.jp/node/39537), カレントアウェアネス, 2019-11-19
-39. [How Machine Learning Can Help Unlock the World of Ancient Japan](https://thegradient.pub/machine-learning-ancient-japan/), The Gradient, 2019-11-17
-40. [「日本語のくずし字をAIで活字に直す試み」の活発化に海外の研究者らも注目](https://gigazine.net/news/20191119-ai-japanese-kuzushiji-character-recognition/), GIGAZINE, 2019-11-19
-41. [AIとOCR連携の可能--AIで“くずし字”を判別に挑む](https://japan.zdnet.com/article/35145806/), ZDNet Japan, 2019-11-27
-42. [宝庫の鍵 ロバート キャンベル](https://www.nikkei.com/article/DGXMZO52497990S9A121C1FBB000/), 日本経済新聞 夕刊6面, 2019-11-27
-43. [日本古来の「くずし字」にＡＩで挑む　解読の競技大会は中国が優勝](https://special.sankei.com/a/life/article/20191130/0001.html), 産経新聞, 2019-11-30
-44. [「くずし字」ＡＩが解読 ラーメン判別法も応用！](https://www3.nhk.or.jp/news/html/20191202/k10012198561000.html), NHK WEB特集, 2019-12-02
-45. ラーメン判別法も応用 古文書の「くずし字」AIが解読, Nらじセレクト, 2019-12-09
-46. 難解な「くずし字」がＡＩでサクサク読める！読まれないままの文献多く"予想外の事実"見つかる可能性も, MBSテレビ「ミント！」, 2019-12-10
-47. AIでくずし字”の解読に挑む, NHK NEWS WEB, 2019-11-11
-48. [人文学オープンデータ共同利用センター（CODH）、日本古典籍くずし字データセットに字形データを大幅に追加：データセットを活用した無料のAIくずし字OCRサービスも公開](https://current.ndl.go.jp/node/39489), カレントアウェアネス, 2019-11-12
-49. [くずし字解読　ＡＩの実力は？](https://www.nhk.or.jp/d-navi/sci_cul/2019/11/story/story_20191120/) ｜サイカルジャーナル｜NHKオンライン, NHK, 2019-11-20
-50. [新機能を体験できるサービス「江戸マップβ版」「くずし字データセット閲覧ビューア」も公開](https://current.ndl.go.jp/node/39489), カレントアウェアネス, 2019-11-06
-51. [ＡＩで古文書を読む　埋もれた情報を発掘](https://www.sankei.com/life/news/191018/lif1910180017-n1.html), 産経新聞, 2019-10-18
-52. 【関西（知）探　解】くずし字解読　ＡＩにおまかせ、史料を眠らせない, 産経新聞 大阪 朝刊 21面, 2019-10-19
-53. ［サイエンスＲｅｐｏｒｔ］「くずし字」　ＡＩが解読　６８万字分を学習, 東京読売新聞 朝刊 34面, 2019-10-20
-54. サイエンス　Report「くずし字」　AIが解読　68万字分を学習　精度90%, 読売新聞 朝刊34面, 2019-10-20
-55. サイエンス　Report「くずし字」　AIが解読　68万字分を学習　精度90%, 読売新聞（大阪） 朝刊23面, 2019-10-20
-56. [古典のＡＩ解読　埋もれた知を掘り起こしたい](https://www.yomiuri.co.jp/editorial/20191025-OYT1T50059/), 読売新聞 社説, 2019-10-25
-57. 難読古文書　一気に解読　筆書き崩し字活字に　市民参加型でたのしく　AI開発コンペ実施, 徳島新聞 夕刊1面, 2019-11-06
-58. 古典・古文書の難読「くずし字」、AIが瞬時に解読…精度90％も, 読売新聞オンライン, 2019-11-11
-59. 「崩し字」読解、ＡＩで 古文書、専門家以外はハードル高く… 市民参加の翻刻プロジェクトも, 信濃毎日新聞, 夕刊6面, 2019-09-20
-60. 崩し字スピード”翻訳”　市民参加×AI活用　古文書解読に光, 新潟日報 夕刊11面, 2019-09-20
-61. 眠れる古文書 価値を今に 崩し字翻訳 ウェブの力で 市民の知結集プロジェクト, 毎日新聞（大阪） 夕刊3面, 2019-09-21
-62. 崩し字一気に解読へ 古文書翻訳 市民参加、AI開発進む, 山形新聞 朝刊25面, 2019-09-22
-63. 筆書きの崩し字 読めない古文書、一気に解読 市民参加やAI開発で活字に, 山口新聞 朝刊16面, 2019-09-22
-64. 古文書の「崩し字」解読　市民参加やAIで活字に, 千葉日報 朝刊15面, 2019-09-24
-65. 筆書きの崩し字、活字に　古文書、一気に解読へ　市民参加やAI開発も, 茨城新聞 朝刊21面, 2019-09-24
-66. 「崩し字」ＡＩで活字に／市民参加企画も進む／古文書解読に勢い, 沖縄タイムス 朝刊23面, 2019-09-25
-67. 古文書の崩し字を一気に解読　市民参加プロジェクト、AI開発・・・　現在の活字に置き換え, 熊本日日新聞 夕刊3面, 2019-09-25
-68. 読めない古文書一気に解読／筆書きの崩し字、活字に／市民参加やＡＩ開発で推進, 中部経済新聞 15面, 2019-09-26
-69. 難解古文書　一気に解読　市民参加　助言し合い／ＡＩ開発　海外からも　崩し字翻刻, 中国新聞 朝刊5面, 2019-09-26
-70. 古文書解読　市民参加＋ＡＩで　崩し字を活字に「翻刻」　「眠る歴史」掘り起こせ, 東奥日報 夕刊3面, 2019-09-27
-71. 読めない古文書を解読　筆書きの崩し字、活字に, 下野新聞, 2019-09-29
-72. ？な古文書　一気に解読　筆書きの「崩し字」→活字に　市民参加やＡＩ活用で, 神戸新聞 夕刊7面, 2019-09-30
-73. 難解古文書　みんなで解読　国立歴民博　市民参加プロジェクト　AI開発も進む, 高知新聞 夕刊6面, 2019-10-03
-74. 古文書　一気に解読へ　崩し字翻刻計画進む　市民参加やＡＩ開発も, 岩手日報朝刊 16面, 2019-10-04
-75. 市民参加　翻刻プロジェクト／古文書「崩し字」活字へ／一気に解読　ＡＩ開発も, 宮崎日日新聞 朝刊 12面, 2019-10-11
-76. [日本文化とAIシンポジウム2019　～AIがくずし字を読む時代がやってきた～（11/11・東京）](https://current.ndl.go.jp/node/39034/), カレントアウェアネス, 2019-09-17
-77. トピック くずし字を読み解くAIを紹介, 読売新聞, 夕刊7面, 2019-09-19
-78. シンポジウム「ＡＩがくずし字を読む時代がやってきた」開催へ, 科学新聞 2面, 2019-09-19
-79. [AIでくずし字を読む カラーヌワット・タリン](https://bungeishunju.com/n/ne725a2ee45ac), 文藝春秋, 90-91ページ, 2019年10月号
-80. [AIやビッグデータ、人文研究に変革　データ駆動型に](https://www.nikkei.com/article/DGXMZO47825070W9A720C1MY1000/), 日本経済新聞, 2019-07-27
-81. [AI活用した古文書解読プロジェクト「みんなで翻刻」がリニューアル](https://ict-enews.net/2019/07/24honkoku/), ICT教育ニュース, 2019-07-24
-82. [防災へ、みんなで古文書読み解く　東大地震研の史料５００点、ネットで公開　５０００人参加](https://www.asahi.com/articles/DA3S14112066.html), 朝日新聞, 2019-07-25
-83. [日本古来の「くずし字」、AIでどう読み取る？　世界的なコンペティションが7月中旬から開催決定](https://internet.watch.impress.co.jp/docs/yajiuma/1195186.html), やじうまWatch, 2019-07-10
-84. [くずし字認識に関する全世界的なコンペティションが機械学習コンペプラットフォームKaggleで開催](https://current.ndl.go.jp/node/38580), カレントアウェアネス, 2019-07-12
-85. [くずし字認識のKaggleコンペ開催：人文系データ対象は今回が初](https://marvin.news/6836), Marvin（マーヴィン）人工知能・AIと機械学習の事例メディア, 2019-07-18
-86. 『くずし字』の認識にＡＩ活用へ世界規模コンペ, 科学新聞, 2面, 2019-07-19
-87. [医療に災害対策、古文書の読み取りまで――AIによる社会課題の解決を目指すGoogle](https://k-tai.watch.impress.co.jp/docs/news/1195374.html), ケータイ Watch, 2019-07-10
-88. [Googleが日本でAI人材支援、6人の研究者に500万円補助 1000年前の書物の解読もAIで](https://japanese.engadget.com/jp-2019-07-10-google-ai-6-500.html), engadget日本版, 2019-07-11
-89. [AIで日本史研究者やマニアが狂喜乱舞する「くずし字」の翻訳ツールが開発](https://pc.watch.impress.co.jp/docs/news/1195499.html), PC Watch, 2019-07-11
-90. [便利すぎるこれ！古文書や浮世絵のくずし字を自動解読してくれる無料の「AIくずし字認識」が素晴らしい！](https://mag.japaaan.com/archives/101635), Japaaan, 2019-07-11
-91. [古典書体「くずし字」の判別も--AIで社会課題の解決目指すグーグル「Solve with AI」](https://japan.cnet.com/article/35139809/), CNET Japan, 2019-07-12
-92. [AIを「悪の手先」にしないためにGoogleが取り組んでいること](https://www.itmedia.co.jp/news/articles/1907/14/news020.html), ITMedia News, 2019-07-14
-93. [人工知能（AI）の流行で改めて感じる「それはAIでやるべきなのか」という感覚の大切さ](https://news.yahoo.co.jp/byline/yamamotoichiro/20190715-00134368/), Yahoo!ニュース 個人, 2019-07-15
-94. [Google – Solve with AI: Trí tuệ nhân tạo giúp chẩn đoán ung thư và giải quyết các vấn đề của xã hội](https://www.techtimes.vn/google-solve-with-ai-tri-tue-nhan-tao-giup-chan-doan-ung-thu-va-giai-quyet-cac-van-de-cua-xa-hoi/), TechTimes Vietnam, 2019-07-11
-95. [Google tổ chức sự kiện về trí tuệ nhân tạo](https://www.techsignin.com/tintuc/google-tri-tue-nhan-tao-solve-with-ai/), TechSign.in, 2019-07-11
-96. [【東京直擊】AI好神　肺癌篩檢比醫生還準](https://tw.appledaily.com/gadget/20190711/K2VBBMGEYUMITRNSVUIU2NHWBE/), 蘋果日報, 2019-07-11
-97. [Penggunaan Pembelajaran Mesin Tensorflow Untuk Memulihara Tulisan 1000 Tahun Kuzushiji](https://amanz.my/2019211234/), Amanz, 2019-07-11
-98. [東京直擊Google Solve with AI論壇 解救人類危機 人工智慧3大應用 癌症篩檢比人工更準確](https://tw.appledaily.com/lifestyle/20190712/SH6U35NKGRWP7KB4NRHBJU5I7U/), 蘋果日報, 2019-07-12
-99. [Google AI 七项原则发布一年，AI 业务掌门人杰夫·迪恩谈技术与善的距离](https://www.ifanr.com/1235220), 爱范儿, 2019-07-12
-100. [Google AI 七項原則發表一年，AI 業務掌門人傑夫‧迪恩談技術與道德的距離](https://technews.tw/2019/07/15/google-ai-jeff-dean-talk-about-ai/), TechNews 科技新報, 2019-07-15
-101. [Secrets of billions of ancient Japanese texts being uncovered by AI](https://www.9news.com.au/technology/artificial-intelligence-ancient-japanese-kuzushiji-texts-being-decoded-by-ai-google-machine-learning-tech-news-update/18669e01-e7f7-4ff4-b30d-885549a7a952), 9news (Australia), 2019-07-15
-102. [L'intelligence artificielle déchiffre des milliards de textes en japonais ancien](https://www.lebigdata.fr/intelligence-artificielle-textes-japonais-ancien), LeBigData.fr, 2019-07-15
-103. [HERE'S HOW GOOGLE IS PUTTING AI TO WORK IN HEALTHCARE, ENVIRONMENTAL CONSERVATION, AGRICULTURE AND MORE](https://www.digit.in/features/software/heres-how-google-is-putting-ai-to-work-in-healthcare-environmental-conservation-agriculture-and-more-49182.html), Digit, 2019-07-16
-104. [I giapponesi hanno cambiato sistema di scrittura e non capiscono più i vecchi documenti. Li salverà un algoritmo?](https://www.linkiesta.it/2019/07/giappone-scrittura-kanji/), Linkiesta, 2019-07-17
-105. [AIは地球を救う｜石川温のPCスマホニュース解説](https://ascii.jp/elem/000/001/900/1900062/), ASCII.jp, 2019-07-22
-106. [社会課題の解決にAIは貢献できるのか Googleの「Solve with AI」に世界の先端事例を見る](https://dcross.impress.co.jp/docs/column/column20190121/001095.html), DIGITAL X（デジタルクロス）, 2019-08-15
-107. [Mila Newsletter](https://preview.mailerlite.com/u9k2d2) - July 2019
-108. [歴史を『読み解く』:AI で日本の古文書の膨大な文章をより多くの人々へ](https://blogs.nvidia.co.jp/2019/06/10/japanese-texts-ai/) NVIDIA Blog(2019-06-10)
-109. [The Official NVIDIA Blogのブログ記事By the Book: AI Making Millions of Ancient Japanese Texts More Accessible](https://blogs.nvidia.com/blog/2019/05/20/japanese-texts-ai/), 2019-05-21
-110. [Deep learning creates Rosetta Stone for Medieval Japanese script](https://samsungnext.com/whats-next/deep-learning-creates-rosetta-stone-for-medieval-japanese-script/), SAMSUNG NEXT (2019-04-23)
-111. [「くずし字」をAIで解読する研究がますます盛んに：機械学習と人文系の分野横断的研究も](https://marvin.news/6464), Marvin（マーヴィン）人工知能・AIと機械学習の事例メディア (2019-05-21)
-112. [日本古文書のくずし字、GPU活用したAI技術で自動解析進む](https://news.mynavi.jp/article/20190522-827654/), マイナビニュース (2019-05-22)
-113. [AIとOCRで、古典資料に書かれた「くずし字」を判読可能に――研究者たちの挑戦](https://www.itmedia.co.jp/enterprise/articles/1905/27/news082.html), ITmedia エンタープライズ (2019-05-27)
-114. [NIHU Magazine 日本語：vol.037 - 情報学から読み解く日本古典文学：はじまりは『源氏物語』](https://www.nihu.jp/ja/publication/nihu_magazine/037) (2019-05-14)
-115. [NIHU Magazine English: vol.037 - The Tale of Genji to computer science](https://www.nihu.jp/en/publication/nihu_magazine/037) (2019-05-14)
-116. Quebec Artificial Intelligence Institute - Mila blog [Choosing AI Benchmark Tasks to Benefit Other Fields](https://medium.com/mila-quebec/choosing-ai-benchmark-tasks-to-benefit-other-fields-90f3a861886e) (2019-4-27)
+1. [Tokyo's global talent enriches the city](https://www.pna.gov.ph/articles/1267561) Philippine News Agency (PNA) 2026-1-22
+2. [Tokyo's global talent enriches the city](https://globalnation.inquirer.net/307075/tokyos-global-talent-enriches-the-city) Inquirer.net 2026-1-22
+3. [Sakana AI develops models to bridge the gap between modern Japan and its roots](https://www.hindustantimes.com/genesis/sakana-ai-develops-models-to-bridge-the-gap-between-modern-japan-and-its-roots-101769402677544-amp.html) Hindustan Times 2026-1-22
+4. [Tokyo's Global Talent Enriches the City](https://www.nationthailand.com/blogs/news/world/40061632) Nation Thailand 2026-1-22
+5. [Tokyo's global talent enriches the city](https://news.tuoitre.vn/tokyos-global-talent-enriches-the-city-10326012610030269.htm) Tuổi Trẻ News 2026-1-22
+6. [Expo 2025 explores AI, creativity and diversity as pathways to future learning and peacebuilding](https://www.euronews.com/2025/09/04/expo-2025-explores-ai-creativity-and-diversity-as-pathways-to-future-learning-and-peacebui) Euronews 2025-9-4
+7. [Academics, startup release AI tool that makes ukiyo-e](https://www.asahi.com/ajw/articles/15361477) Asahi Shimbun 2024-8-8
+8. [Sakana AI drops image models to generate Japan’s traditional ukiyo-e artwork](https://venturebeat.com/ai/sakana-ai-drops-image-models-to-generate-japans-traditional-ukiyo-e-artwork/) VentureBeat 2024-7-22
+9. [Sakana AI、浮世絵風画像生成モデル「Evo-Ukiyoe」と浮世絵カラー化モデル「Evo-Nishikie」公開](https://aismiley.co.jp/ai_news/sakana-ai-evo-ukiyoe-evo-nishikie-ritsumeikan/) AISmiley 2024-7-31
+10. [浮世絵生成AI「Evo-Ukiyoe」と浮世絵カラー化AI「Evo-Nishikie」が登場](https://gigazine.net/news/20240723-evo-ukiyoe/) Gigazine 2024-7-31
+11. [日本語プロンプトから“浮世絵風画像”を生成できる「Evo-Ukiyoe」、日本発のSakana AIが公開](https://forest.watch.impress.co.jp/docs/news/1610382.html) Windows Forest 22024-7-23
+12. [浮世絵風の画像を生成するAIモデル、日本のAIベンチャーSakana AIが発表](https://ascii.jp/elem/000/004/211/4211174/) Ascii x AI 2024-7-22
+13. [Sakana AI株式会社、浮世絵風画像生成モデルと浮世絵カラー化モデルを公開](https://current.ndl.go.jp/car/223190) Current Awareness Portal 2024-7-21
+14. [Sakana.ai、浮世絵風イラスト生成AIを公開　浮世絵をカラー化するAIも](https://www.itmedia.co.jp/news/articles/2407/22/news089.html) ITmedia news 2024-7-22
+15. [Sakana AI lets you turn pics into traditional Japanese art](https://technology.inquirer.net/135989/sakana-ai-lets-you-turn-pics-into-traditional-japanese-art) Inquirer.Net 2024-7-23
+16. [Sakana AIが新たな浮世絵生成モデルを開発　日本の伝統美をAIで再現](https://ledge.ai/articles/sakana_ai_evo-ukiyoe_evo-nishikie) Ledge.ai 20204-7-26
+17. [Sakana AI、浮世絵を蘇らせるAIモデルを発表](https://thebridge.jp/2024/07/sakana-ai-drops-image-models-to-generate-japans-traditional-ukiyo-e-artwork) Bridge 2024-7-23
+18. [浮世絵風の画像をAIが生成｜日本文化を学んだ新技術が公開](https://techreport.com/jp/news/ai-generates-ukiyo-e-style-images/) TechReport 2024-7-23
+19. [本格的な“浮世絵風”画像生成AI「Evo-Ukiyoe」　Sakana AI](https://www.watch.impress.co.jp/docs/news/1610140.html) ImpressWatch 2024-7-22
+20. [Sakana.ai、浮世絵風イラスト生成AIを公開　浮世絵をカラー化するAIも](https://news.goo.ne.jp/article/itmedia_news/trend/itmedia_news-20240722_089.html) goo news 2024-7-22
+21. [浮世絵風の絵を出力できる生成AI](https://pc.watch.impress.co.jp/docs/news/1610700.html) PCWatch 2024-7-24
+22. [浮世絵を描く生成AI、古典文学研究者が開発　サカナAIが無料公開](https://www.asahi.com/articles/ASS7L34R3S7LULFA02DM.html) Asahi Shimbun 2024-7-22
+23. [Introducing the Ukiyo-e generation AI 'Evo-Ukiyoe' and the Ukiyo-e colorization AI 'Evo-Nishikie'](https://gigazine.net/gsc_news/en/20240723-evo-ukiyoe/) Gigazine 2024-7-23
+24. [Sakana AI Launches New Models for Ukiyo-e Art Generation and Colorization](https://www.maginative.com/article/sakana-ai-launches-new-models-for-ukiyo-e-art-generation-and-colorization/) Maginative 2024-7-22
+25. [AIくずし字認識アプリ「みを」が拓く未来](https://www.ebisukosyo.co.jp/item/645/)『歴史研究』 Vol 700 2022-05-16
+26. [人文学のAI活用広がる　くずし字解読、絵画資料分析も](https://www.nikkei.com/article/DGXZQOUD218AB0R20C22A1000000/) 日本経済新聞, 2021-01-31
+27. [源氏物語も春画の文字も読めちゃう！AIくずし字認識アプリ「みを（miwo）」開発者インタビュー](https://intojapanwaraku.com/culture/176034/) 小学館「和樂」ウェブ　2021-10
+28. [源氏物語が好きすぎてAIくずし字認識に挑戦でグーグル入社 タイ出身女性が語る「前人未到の人生」](https://ledge.ai/tkasasagi-interview/) LedgeAI 2021-09
+29. [［顔］難解？外国語なので当然…くずし字を解読するアプリを開発　カラーヌワット・タリンさん](https://www.yomiuri.co.jp/culture/20210710-OYT8T50109/?fbclid=IwAR0z2OIFtJvHvAqBKhbFEofU8qn-1_TsPFiyx0MTMnl6E10FIRb_dKw8cZc)読売新聞, 2021-07-11
+30. [図書館情報学とAIの新展開 ーAI文字認識×クラウドソーシングで史料のテキスト化を加速【第2回 人工知能学会誌コラボ】](https://ainow.ai/2020/11/02/243594/) AINOW, 2020-11-02
+31. [Dataset Search：Googleによる「データセット検索」サイト：AI・機械学習のデータセット辞典](https://www.atmarkit.co.jp/ait/articles/2007/15/news021.html), ＠IT, 2020-07-15
+32. くずし字解読AI駆使 ,読売新聞夕刊, 2020-06-06
+33. 古文書と災害（４）くずし字の読解 難漢字 AIにおまかせ きっかけは源氏物語, 東京新聞, 朝刊4面, 2020-03-07
+34. 古文書と災害 （４）くずし字の読解　難漢字　AIにおまかせ, 中日新聞, 夕刊5面, 2020-03-17
+35. [「未来技術の旗手たち AIが古文書の”くずし字”を読み、日本の文字文化の扉を開く」](https://ci.nii.ac.jp/naid/40022174370) （商工ジャーナル 46(3), 54-57, 2020-03, 商工中金経済研究所）
+36. [Around DH 2020](https://arounddh.org/en/kuronet) KuroNet.
+37. [ＡＩがくずし字を読む時代がやってきた](https://www.nijl.ac.jp/pages/cijproject/images/fumi_13.pdf), ふみ第13号, 1-3ページ, 2020-01-15
+38. [［とれんど］きっかけは「源氏物語」](https://www.yomiuri.co.jp/kyoiku/kyoiku/news/20200118-OYT1T50224/) 論説委員　鳥山　忠志, 読売新聞, 2020-01-18
+39. [KMNIST／Kuzushiji-MNIST：日本古典籍くずし字（手書き文字）データセット](https://www.atmarkit.co.jp/ait/articles/2001/27/news022.html), AI・機械学習のデータセット辞典 - ＠IT, 2020-01-27
+40. [日本文化とAIシンポジウム2019～AIがくずし字を読む時代がやってきた～](https://jipsti.jst.go.jp/johokanri/sti_updates/?id=11784), STI Updates, 2020-01-28
+41. [【保存版】オープンデータ・データセット100選 -膨大なデータを活用しよう！](https://ainow.ai/2020/03/02/183280/), AINOW, 2020-03-02
+42. [「美空ひばり」「ラーメン」「くずし字」…日本のAI技術の現状](https://asagei.biz/excerpt/10797), Asagei Biz-アサ芸ビズ, 2019-12-21
+43. [「日本文化とAIシンポジウム2019　～AIがくずし字を読む時代がやってきた～」の発表資料とポスターが公開される](https://current.ndl.go.jp/node/39537), カレントアウェアネス, 2019-11-19
+44. [How Machine Learning Can Help Unlock the World of Ancient Japan](https://thegradient.pub/machine-learning-ancient-japan/), The Gradient, 2019-11-17
+45. [「日本語のくずし字をAIで活字に直す試み」の活発化に海外の研究者らも注目](https://gigazine.net/news/20191119-ai-japanese-kuzushiji-character-recognition/), GIGAZINE, 2019-11-19
+46. [AIとOCR連携の可能--AIで“くずし字”を判別に挑む](https://japan.zdnet.com/article/35145806/), ZDNet Japan, 2019-11-27
+47. [宝庫の鍵 ロバート キャンベル](https://www.nikkei.com/article/DGXMZO52497990S9A121C1FBB000/), 日本経済新聞 夕刊6面, 2019-11-27
+48. [日本古来の「くずし字」にＡＩで挑む　解読の競技大会は中国が優勝](https://special.sankei.com/a/life/article/20191130/0001.html), 産経新聞, 2019-11-30
+49. [「くずし字」ＡＩが解読 ラーメン判別法も応用！](https://www3.nhk.or.jp/news/html/20191202/k10012198561000.html), NHK WEB特集, 2019-12-02
+50. ラーメン判別法も応用 古文書の「くずし字」AIが解読, Nらじセレクト, 2019-12-09
+51. 難解な「くずし字」がＡＩでサクサク読める！読まれないままの文献多く"予想外の事実"見つかる可能性も, MBSテレビ「ミント！」, 2019-12-10
+52. AIでくずし字”の解読に挑む, NHK NEWS WEB, 2019-11-11
+53. [人文学オープンデータ共同利用センター（CODH）、日本古典籍くずし字データセットに字形データを大幅に追加：データセットを活用した無料のAIくずし字OCRサービスも公開](https://current.ndl.go.jp/node/39489), カレントアウェアネス, 2019-11-12
+54. [くずし字解読　ＡＩの実力は？](https://www.nhk.or.jp/d-navi/sci_cul/2019/11/story/story_20191120/) ｜サイカルジャーナル｜NHKオンライン, NHK, 2019-11-20
+55. [新機能を体験できるサービス「江戸マップβ版」「くずし字データセット閲覧ビューア」も公開](https://current.ndl.go.jp/node/39489), カレントアウェアネス, 2019-11-06
+56. [ＡＩで古文書を読む　埋もれた情報を発掘](https://www.sankei.com/life/news/191018/lif1910180017-n1.html), 産経新聞, 2019-10-18
+57. 【関西（知）探　解】くずし字解読　ＡＩにおまかせ、史料を眠らせない, 産経新聞 大阪 朝刊 21面, 2019-10-19
+58. ［サイエンスＲｅｐｏｒｔ］「くずし字」　ＡＩが解読　６８万字分を学習, 東京読売新聞 朝刊 34面, 2019-10-20
+59. サイエンス　Report「くずし字」　AIが解読　68万字分を学習　精度90%, 読売新聞 朝刊34面, 2019-10-20
+60. サイエンス　Report「くずし字」　AIが解読　68万字分を学習　精度90%, 読売新聞（大阪） 朝刊23面, 2019-10-20
+61. [古典のＡＩ解読　埋もれた知を掘り起こしたい](https://www.yomiuri.co.jp/editorial/20191025-OYT1T50059/), 読売新聞 社説, 2019-10-25
+62. 難読古文書　一気に解読　筆書き崩し字活字に　市民参加型でたのしく　AI開発コンペ実施, 徳島新聞 夕刊1面, 2019-11-06
+63. 古典・古文書の難読「くずし字」、AIが瞬時に解読…精度90％も, 読売新聞オンライン, 2019-11-11
+64. 「崩し字」読解、ＡＩで 古文書、専門家以外はハードル高く… 市民参加の翻刻プロジェクトも, 信濃毎日新聞, 夕刊6面, 2019-09-20
+65. 崩し字スピード”翻訳”　市民参加×AI活用　古文書解読に光, 新潟日報 夕刊11面, 2019-09-20
+66. 眠れる古文書 価値を今に 崩し字翻訳 ウェブの力で 市民の知結集プロジェクト, 毎日新聞（大阪） 夕刊3面, 2019-09-21
+67. 崩し字一気に解読へ 古文書翻訳 市民参加、AI開発進む, 山形新聞 朝刊25面, 2019-09-22
+68. 筆書きの崩し字 読めない古文書、一気に解読 市民参加やAI開発で活字に, 山口新聞 朝刊16面, 2019-09-22
+69. 古文書の「崩し字」解読　市民参加やAIで活字に, 千葉日報 朝刊15面, 2019-09-24
+70. 筆書きの崩し字、活字に　古文書、一気に解読へ　市民参加やAI開発も, 茨城新聞 朝刊21面, 2019-09-24
+71. 「崩し字」ＡＩで活字に／市民参加企画も進む／古文書解読に勢い, 沖縄タイムス 朝刊23面, 2019-09-25
+72. 古文書の崩し字を一気に解読　市民参加プロジェクト、AI開発・・・　現在の活字に置き換え, 熊本日日新聞 夕刊3面, 2019-09-25
+73. 読めない古文書一気に解読／筆書きの崩し字、活字に／市民参加やＡＩ開発で推進, 中部経済新聞 15面, 2019-09-26
+74. 難解古文書　一気に解読　市民参加　助言し合い／ＡＩ開発　海外からも　崩し字翻刻, 中国新聞 朝刊5面, 2019-09-26
+75. 古文書解読　市民参加＋ＡＩで　崩し字を活字に「翻刻」　「眠る歴史」掘り起こせ, 東奥日報 夕刊3面, 2019-09-27
+76. 読めない古文書を解読　筆書きの崩し字、活字に, 下野新聞, 2019-09-29
+77. ？な古文書　一気に解読　筆書きの「崩し字」→活字に　市民参加やＡＩ活用で, 神戸新聞 夕刊7面, 2019-09-30
+78. 難解古文書　みんなで解読　国立歴民博　市民参加プロジェクト　AI開発も進む, 高知新聞 夕刊6面, 2019-10-03
+79. 古文書　一気に解読へ　崩し字翻刻計画進む　市民参加やＡＩ開発も, 岩手日報朝刊 16面, 2019-10-04
+80. 市民参加　翻刻プロジェクト／古文書「崩し字」活字へ／一気に解読　ＡＩ開発も, 宮崎日日新聞 朝刊 12面, 2019-10-11
+81. [日本文化とAIシンポジウム2019　～AIがくずし字を読む時代がやってきた～（11/11・東京）](https://current.ndl.go.jp/node/39034/), カレントアウェアネス, 2019-09-17
+82. トピック くずし字を読み解くAIを紹介, 読売新聞, 夕刊7面, 2019-09-19
+83. シンポジウム「ＡＩがくずし字を読む時代がやってきた」開催へ, 科学新聞 2面, 2019-09-19
+84. [AIでくずし字を読む カラーヌワット・タリン](https://bungeishunju.com/n/ne725a2ee45ac), 文藝春秋, 90-91ページ, 2019年10月号
+85. [AIやビッグデータ、人文研究に変革　データ駆動型に](https://www.nikkei.com/article/DGXMZO47825070W9A720C1MY1000/), 日本経済新聞, 2019-07-27
+86. [AI活用した古文書解読プロジェクト「みんなで翻刻」がリニューアル](https://ict-enews.net/2019/07/24honkoku/), ICT教育ニュース, 2019-07-24
+87. [防災へ、みんなで古文書読み解く　東大地震研の史料５００点、ネットで公開　５０００人参加](https://www.asahi.com/articles/DA3S14112066.html), 朝日新聞, 2019-07-25
+88. [日本古来の「くずし字」、AIでどう読み取る？　世界的なコンペティションが7月中旬から開催決定](https://internet.watch.impress.co.jp/docs/yajiuma/1195186.html), やじうまWatch, 2019-07-10
+89. [くずし字認識に関する全世界的なコンペティションが機械学習コンペプラットフォームKaggleで開催](https://current.ndl.go.jp/node/38580), カレントアウェアネス, 2019-07-12
+90. [くずし字認識のKaggleコンペ開催：人文系データ対象は今回が初](https://marvin.news/6836), Marvin（マーヴィン）人工知能・AIと機械学習の事例メディア, 2019-07-18
+91. 『くずし字』の認識にＡＩ活用へ世界規模コンペ, 科学新聞, 2面, 2019-07-19
+92. [医療に災害対策、古文書の読み取りまで――AIによる社会課題の解決を目指すGoogle](https://k-tai.watch.impress.co.jp/docs/news/1195374.html), ケータイ Watch, 2019-07-10
+93. [Googleが日本でAI人材支援、6人の研究者に500万円補助 1000年前の書物の解読もAIで](https://japanese.engadget.com/jp-2019-07-10-google-ai-6-500.html), engadget日本版, 2019-07-11
+94. [AIで日本史研究者やマニアが狂喜乱舞する「くずし字」の翻訳ツールが開発](https://pc.watch.impress.co.jp/docs/news/1195499.html), PC Watch, 2019-07-11
+95. [便利すぎるこれ！古文書や浮世絵のくずし字を自動解読してくれる無料の「AIくずし字認識」が素晴らしい！](https://mag.japaaan.com/archives/101635), Japaaan, 2019-07-11
+96. [古典書体「くずし字」の判別も--AIで社会課題の解決目指すグーグル「Solve with AI」](https://japan.cnet.com/article/35139809/), CNET Japan, 2019-07-12
+97. [AIを「悪の手先」にしないためにGoogleが取り組んでいること](https://www.itmedia.co.jp/news/articles/1907/14/news020.html), ITMedia News, 2019-07-14
+98. [人工知能（AI）の流行で改めて感じる「それはAIでやるべきなのか」という感覚の大切さ](https://news.yahoo.co.jp/byline/yamamotoichiro/20190715-00134368/), Yahoo!ニュース 個人, 2019-07-15
+99. [Google – Solve with AI: Trí tuệ nhân tạo giúp chẩn đoán ung thư và giải quyết các vấn đề của xã hội](https://www.techtimes.vn/google-solve-with-ai-tri-tue-nhan-tao-giup-chan-doan-ung-thu-va-giai-quyet-cac-van-de-cua-xa-hoi/), TechTimes Vietnam, 2019-07-11
+100. [Google tổ chức sự kiện về trí tuệ nhân tạo](https://www.techsignin.com/tintuc/google-tri-tue-nhan-tao-solve-with-ai/), TechSign.in, 2019-07-11
+101. [【東京直擊】AI好神　肺癌篩檢比醫生還準](https://tw.appledaily.com/gadget/20190711/K2VBBMGEYUMITRNSVUIU2NHWBE/), 蘋果日報, 2019-07-11
+102. [Penggunaan Pembelajaran Mesin Tensorflow Untuk Memulihara Tulisan 1000 Tahun Kuzushiji](https://amanz.my/2019211234/), Amanz, 2019-07-11
+103. [東京直擊Google Solve with AI論壇 解救人類危機 人工智慧3大應用 癌症篩檢比人工更準確](https://tw.appledaily.com/lifestyle/20190712/SH6U35NKGRWP7KB4NRHBJU5I7U/), 蘋果日報, 2019-07-12
+104. [Google AI 七项原则发布一年，AI 业务掌门人杰夫·迪恩谈技术与善的距离](https://www.ifanr.com/1235220), 爱范儿, 2019-07-12
+105. [Google AI 七項原則發表一年，AI 業務掌門人傑夫‧迪恩談技術與道德的距離](https://technews.tw/2019/07/15/google-ai-jeff-dean-talk-about-ai/), TechNews 科技新報, 2019-07-15
+106. [Secrets of billions of ancient Japanese texts being uncovered by AI](https://www.9news.com.au/technology/artificial-intelligence-ancient-japanese-kuzushiji-texts-being-decoded-by-ai-google-machine-learning-tech-news-update/18669e01-e7f7-4ff4-b30d-885549a7a952), 9news (Australia), 2019-07-15
+107. [L'intelligence artificielle déchiffre des milliards de textes en japonais ancien](https://www.lebigdata.fr/intelligence-artificielle-textes-japonais-ancien), LeBigData.fr, 2019-07-15
+108. [HERE'S HOW GOOGLE IS PUTTING AI TO WORK IN HEALTHCARE, ENVIRONMENTAL CONSERVATION, AGRICULTURE AND MORE](https://www.digit.in/features/software/heres-how-google-is-putting-ai-to-work-in-healthcare-environmental-conservation-agriculture-and-more-49182.html), Digit, 2019-07-16
+109. [I giapponesi hanno cambiato sistema di scrittura e non capiscono più i vecchi documenti. Li salverà un algoritmo?](https://www.linkiesta.it/2019/07/giappone-scrittura-kanji/), Linkiesta, 2019-07-17
+110. [AIは地球を救う｜石川温のPCスマホニュース解説](https://ascii.jp/elem/000/001/900/1900062/), ASCII.jp, 2019-07-22
+111. [社会課題の解決にAIは貢献できるのか Googleの「Solve with AI」に世界の先端事例を見る](https://dcross.impress.co.jp/docs/column/column20190121/001095.html), DIGITAL X（デジタルクロス）, 2019-08-15
+112. [Mila Newsletter](https://preview.mailerlite.com/u9k2d2) - July 2019
+113. [歴史を『読み解く』:AI で日本の古文書の膨大な文章をより多くの人々へ](https://blogs.nvidia.co.jp/2019/06/10/japanese-texts-ai/) NVIDIA Blog(2019-06-10)
+114. [The Official NVIDIA Blogのブログ記事By the Book: AI Making Millions of Ancient Japanese Texts More Accessible](https://blogs.nvidia.com/blog/2019/05/20/japanese-texts-ai/), 2019-05-21
+115. [Deep learning creates Rosetta Stone for Medieval Japanese script](https://samsungnext.com/whats-next/deep-learning-creates-rosetta-stone-for-medieval-japanese-script/), SAMSUNG NEXT (2019-04-23)
+116. [「くずし字」をAIで解読する研究がますます盛んに：機械学習と人文系の分野横断的研究も](https://marvin.news/6464), Marvin（マーヴィン）人工知能・AIと機械学習の事例メディア (2019-05-21)
+117. [日本古文書のくずし字、GPU活用したAI技術で自動解析進む](https://news.mynavi.jp/article/20190522-827654/), マイナビニュース (2019-05-22)
+118. [AIとOCRで、古典資料に書かれた「くずし字」を判読可能に――研究者たちの挑戦](https://www.itmedia.co.jp/enterprise/articles/1905/27/news082.html), ITmedia エンタープライズ (2019-05-27)
+119. [NIHU Magazine 日本語：vol.037 - 情報学から読み解く日本古典文学：はじまりは『源氏物語』](https://www.nihu.jp/ja/publication/nihu_magazine/037) (2019-05-14)
+120. [NIHU Magazine English: vol.037 - The Tale of Genji to computer science](https://www.nihu.jp/en/publication/nihu_magazine/037) (2019-05-14)
+121. Quebec Artificial Intelligence Institute - Mila blog [Choosing AI Benchmark Tasks to Benefit Other Fields](https://medium.com/mila-quebec/choosing-ai-benchmark-tasks-to-benefit-other-fields-90f3a861886e) (2019-4-27)
 
 
 ## Others
