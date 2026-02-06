@@ -152,9 +152,8 @@ I have been working on creating dataset projects.
 
 ## Education
 
-- September 2017 - April 2018 The University of Tokyo Graduate School of Arts and Sciences, Multidisciplinary Science General System Studies Special Research Student 
-- April 2012 - March 2018 Waseda University Graduate School of Arts Letters and Sciences PhD Course Japanese Literature, Doctor of Philosophy (Literature)
-- April 2010 - March 2012 Waseda University Graduate School of Letters Arts and Sciences Master Course Japanese Literature
+- April 2018 The University of Tokyo Graduate School of Arts and Sciences, Multidisciplinary Science General System Studies Special Research Student 
+- March 2018 Waseda University Graduate School of Arts Letters and Sciences PhD Course Japanese Literature, Doctor of Philosophy (Literature)
 
 ## Media
 
